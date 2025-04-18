@@ -1,0 +1,2902 @@
+{
+    "Acefato": {
+        "ptBrName": "Acefato",
+        "enName": "Acephate",
+        "nome_qu\u00edmico": "O,S-dimethyl acetylphosphoramidothioate",
+        "f\u00f3rmula_bruta": "C4H10NO3PS",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e acaricida"
+    },
+    "\u00c1cido giber\u00e9lico": {
+        "ptBrName": "\u00c1cido giber\u00e9lico",
+        "enName": "Gibberellic acid",
+        "nome_qu\u00edmico": "(3S,3aS,4S,4aS,7S,9aR,9bR,12S)-7,12-dihydroxy-3-methyl-6-",
+        "f\u00f3rmula_bruta": "C19H22O6",
+        "grupo_qu\u00edmico": "Giberelina",
+        "classe": "Regulador de crescimento"
+    },
+    "acifluorfem": {
+        "ptBrName": "acifluorfem",
+        "enName": "acifluorfen",
+        "nome_qu\u00edmico": "5-(2-chloro-\u03b1,\u03b1,\u03b1-trifluoro-p-tolyloxy)-2-nitrobenzoic acid",
+        "f\u00f3rmula_bruta": "C14H7ClF3NO5",
+        "grupo_qu\u00edmico": "\u00c9ter difen\u00edlico",
+        "classe": "Herbicida"
+    },
+    "alacloro": {
+        "ptBrName": "alacloro",
+        "enName": "alachlor",
+        "nome_qu\u00edmico": "2-chloro-2',6'-diethyl-N-methoxymethylacetanilide",
+        "f\u00f3rmula_bruta": "C14H20ClNO2",
+        "grupo_qu\u00edmico": "Cloroacetanilida",
+        "classe": "Herbicida"
+    },
+    "ALETRINA": {
+        "ptBrName": "ALETRINA",
+        "enName": "allethrin",
+        "f\u00f3rmula_bruta": "C19H2603",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "Ametrina": {
+        "ptBrName": "Ametrina",
+        "enName": "Ametryn",
+        "nome_qu\u00edmico": "N2-ethyl-N4-isopropyl-6-methylthio-1,3,5-triazine-2,4-diamine",
+        "f\u00f3rmula_bruta": "C9H17N5S",
+        "grupo_qu\u00edmico": "Triazina",
+        "classe": "Herbicida"
+    },
+    "Asulam": {
+        "ptBrName": "Asulam",
+        "enName": "Asulam",
+        "nome_qu\u00edmico": "methyl sulfanilylcarbamate",
+        "f\u00f3rmula_bruta": "C8H10N2O4S",
+        "grupo_qu\u00edmico": "Sulfanililcarbamato",
+        "classe": "Herbicida"
+    },
+    "atrazina": {
+        "ptBrName": "atrazina",
+        "enName": "atrazine",
+        "f\u00f3rmula_bruta": "C8H14ClN5"
+    },
+    "\u00c1CIDO B\u00d3RICO": {
+        "ptBrName": "\u00c1CIDO B\u00d3RICO",
+        "enName": "boric acid",
+        "nome_qu\u00edmico": "boric acid",
+        "f\u00f3rmula_bruta": "H3BO3",
+        "grupo_qu\u00edmico": "Inorg\u00e2nico"
+    },
+    "AZAMETIF\u00d3S": {
+        "ptBrName": "AZAMETIF\u00d3S",
+        "enName": "azamethiphos",
+        "f\u00f3rmula_bruta": "C19H10ClN2O5PS",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida"
+    },
+    "acrinatrina": {
+        "ptBrName": "acrinatrina",
+        "enName": "acrinathrin",
+        "nome_qu\u00edmico": "(S)-\u03b1-cyano-3-phenoxybenzyl (Z)-(1R,3S)-2,2-dimethyl-3-[2-(2,2,2-trifluoro-1-",
+        "f\u00f3rmula_bruta": "C26H21F6NO5",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Acaricida"
+    },
+    "Amitraz": {
+        "ptBrName": "Amitraz",
+        "enName": "Amitraz",
+        "nome_qu\u00edmico": "N-methylbis(2,4-xylyliminomethyl)amine",
+        "f\u00f3rmula_bruta": "C19H23N3",
+        "grupo_qu\u00edmico": "Bis(arilformamidina)",
+        "classe": "Acaricida e inseticida"
+    },
+    "acetocloro": {
+        "ptBrName": "acetocloro",
+        "enName": "acetochlor",
+        "nome_qu\u00edmico": "2-chloro-N-ethoxymethyl-6'-ethylaceto-o-toluidide",
+        "f\u00f3rmula_bruta": "C14H20ClNO2",
+        "grupo_qu\u00edmico": "Cloroacetanilida",
+        "classe": "Herbicida"
+    },
+    "Azoxistrobina": {
+        "ptBrName": "Azoxistrobina",
+        "enName": "Azoxystrobin",
+        "grupo_qu\u00edmico": "Estrobilurina",
+        "classe": "Fungicida"
+    },
+    "alanicarbe (alanycar": {
+        "ptBrName": "alanicarbe (alanycar",
+        "enName": "alanicarbe (alanycar",
+        "nome_qu\u00edmico": "ethyl (Z)-N-benzyl-N-[[methyl(1-methylthioethylideneamino-",
+        "f\u00f3rmula_bruta": "C17H25N3O4S2",
+        "grupo_qu\u00edmico": "Metilcarbamato de oxima",
+        "classe": "Inseticida"
+    },
+    "Acetamiprido": {
+        "ptBrName": "Acetamiprido",
+        "enName": "Acetamiprid",
+        "nome_qu\u00edmico": "(E)-N1-[(6-chloro-3-pyridyl)methyl]-N2-cyano-N1-methylacetamidine",
+        "f\u00f3rmula_bruta": "C10H11ClN4",
+        "grupo_qu\u00edmico": "Neonicotinoide",
+        "classe": "Inseticida"
+    },
+    "Azinsulfurom": {
+        "ptBrName": "Azinsulfurom",
+        "enName": "Azimsulfuron",
+        "f\u00f3rmula_bruta": "C13H16N10O5S",
+        "grupo_qu\u00edmico": "Sulfonilur\u00e9ia",
+        "classe": "Herbicida"
+    },
+    "\u00c1CIDO 4-INDOL-3-ILBUT\u00cdRICO": {
+        "ptBrName": "\u00c1CIDO 4-INDOL-3-ILBUT\u00cdRICO",
+        "enName": "4-indol-3-ylbutyric acid",
+        "nome_qu\u00edmico": "4-(indol-3-yl)butyric acid",
+        "f\u00f3rmula_bruta": "C12H13NO2",
+        "grupo_qu\u00edmico": "\u00c1cido indolalcan\u00f3ico",
+        "classe": "Regulador de crescimento"
+    },
+    "ACETATO  DE  (E,Z,Z)-3,8,11-TETRADECATRIENILA": {
+        "ptBrName": "ACETATO  DE  (E,Z,Z)-3,8,11-TETRADECATRIENILA",
+        "enName": "(E,Z,Z)-3,8,11-tetradecatrienyl acetate",
+        "nome_qu\u00edmico": "(E,Z,Z)-3,8,11-tetradecatrienyl acetate",
+        "f\u00f3rmula_bruta": "C16H26O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "ACETATO DE (Z,E)-9,12-TETRADECADIENIL": {
+        "ptBrName": "ACETATO DE (Z,E)-9,12-TETRADECADIENIL",
+        "enName": "(Z,E)-9,12-\ntetradecadienyl  acetate",
+        "nome_qu\u00edmico": "(Z,E)-9,12-tetradecadienyl acetate",
+        "f\u00f3rmula_bruta": "C16H28O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "ACETATO  DE  (E,Z)-3,8-TETRADECADIENILA": {
+        "ptBrName": "ACETATO  DE  (E,Z)-3,8-TETRADECADIENILA",
+        "enName": "(E,Z)-3,8-\ntetradecadienyl acetate",
+        "nome_qu\u00edmico": "(E,Z)-3,8-tetradecadienyl acetate",
+        "f\u00f3rmula_bruta": "C16H28O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "ACETATO  DE  (Z)-9-HEXADECENILA": {
+        "ptBrName": "ACETATO  DE  (Z)-9-HEXADECENILA",
+        "enName": "(Z)-9-hexadecenyl \nacetate",
+        "nome_qu\u00edmico": "(Z)-9-hexadecenyl acetate",
+        "f\u00f3rmula_bruta": "C18H34O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "ACETATO  DE  (E,Z)-3,5-DODECADIENILA": {
+        "ptBrName": "ACETATO  DE  (E,Z)-3,5-DODECADIENILA",
+        "enName": "(E,Z)-3,5-\ndodecadienyl acetate",
+        "nome_qu\u00edmico": "(E,Z)-3,5-dodecadienyl acetate",
+        "f\u00f3rmula_bruta": "C14H24O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "Acibenzolar-S-met\u00edlico": {
+        "ptBrName": "Acibenzolar-S-met\u00edlico",
+        "enName": "Acibenzolar-S-methyl",
+        "nome_qu\u00edmico": "S-methyl benzo[1,2,3]thiadiazole-7-carbothioic",
+        "f\u00f3rmula_bruta": "C8H6N2OS2",
+        "grupo_qu\u00edmico": "Benzotiadiazol",
+        "classe": "Ativador de planta"
+    },
+    "ACETATO DE (E)-8-DODECENILA [": {
+        "ptBrName": "ACETATO DE (E)-8-DODECENILA [",
+        "enName": "E",
+        "nome_qu\u00edmico": "(E)-8-dodecenyl acetate",
+        "f\u00f3rmula_bruta": "C14H26O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio Sint\u00e9tico"
+    },
+    "ACETATO DE (Z)-8-DODECENILA [": {
+        "ptBrName": "ACETATO DE (Z)-8-DODECENILA [",
+        "enName": "Z",
+        "nome_qu\u00edmico": "(Z)-8-dodecenyl acetate",
+        "f\u00f3rmula_bruta": "C14H26O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio Sint\u00e9tico"
+    },
+    "Amicarbazona": {
+        "ptBrName": "Amicarbazona",
+        "enName": "Amicarbazone",
+        "nome_qu\u00edmico": "4-amino-N-tert-butyl-4,5-dihydro-3-isopropyl-5-oxo-1H-1,2,4-triazole-1-",
+        "f\u00f3rmula_bruta": "C10H19N5O2",
+        "grupo_qu\u00edmico": "Triazolinona",
+        "classe": "Herbicida"
+    },
+    "ACETATO DE (Z)-11-HEXADECENILA": {
+        "ptBrName": "ACETATO DE (Z)-11-HEXADECENILA",
+        "enName": "(Z)-11-hexadecenyl \nacetate",
+        "nome_qu\u00edmico": "(Z)-hexadec-11-en-1-yl acetate",
+        "f\u00f3rmula_bruta": "C18H34O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "ACETATO DE (Z)-7-DODECENILA": {
+        "ptBrName": "ACETATO DE (Z)-7-DODECENILA",
+        "enName": "(Z)-7-dodecenyl acetate",
+        "nome_qu\u00edmico": "(Z)-dodec-7-en-1-yl acetate",
+        "f\u00f3rmula_bruta": "C14H26O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "ACETATO  DE  (Z)-9-TETRADECENILA": {
+        "ptBrName": "ACETATO  DE  (Z)-9-TETRADECENILA",
+        "enName": "(Z)-9-tetradecenyl \nacetate",
+        "nome_qu\u00edmico": "(Z)-tetradec-9-en-1-yl acetate",
+        "f\u00f3rmula_bruta": "C16H30O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "\u00c1LCOOL LAUR\u00cdLICO": {
+        "ptBrName": "\u00c1LCOOL LAUR\u00cdLICO",
+        "enName": "lauryl alcohol",
+        "nome_qu\u00edmico": "dodecanol",
+        "f\u00f3rmula_bruta": "C12H26O",
+        "grupo_qu\u00edmico": "\u00c1lcool alif\u00e1tico",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "ACETATO  DE  (Z)-9-DODECENILA": {
+        "ptBrName": "ACETATO  DE  (Z)-9-DODECENILA",
+        "enName": "(Z)-9-dodecenyl \nacetate",
+        "nome_qu\u00edmico": "(Z)-dodec-9-en-1-yl acetate",
+        "f\u00f3rmula_bruta": "C14H26O2",
+        "grupo_qu\u00edmico": "Acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "Aviglicina": {
+        "ptBrName": "Aviglicina",
+        "enName": "Aviglycine",
+        "nome_qu\u00edmico": "(E)-L-2-[2-(2-aminoethoxy)vinyl] glycine",
+        "f\u00f3rmula_bruta": "C6H12N2O3",
+        "grupo_qu\u00edmico": "Etileno (inibidor de)",
+        "classe": "Regulador de crescimento"
+    },
+    "D-ALETRINA": {
+        "ptBrName": "D-ALETRINA",
+        "enName": "d-allethrin",
+        "f\u00f3rmula_bruta": "C19H26O3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "ACETATO  DE  (E,Z)-4,7-TRIDECADIENILA": {
+        "ptBrName": "ACETATO  DE  (E,Z)-4,7-TRIDECADIENILA",
+        "enName": "(E,Z)-4,7-\nTridecadienyl acetate",
+        "nome_qu\u00edmico": "(4E,7Z)-tridecadien-1-yl acetate",
+        "f\u00f3rmula_bruta": "C15H26O2",
+        "grupo_qu\u00edmico": "acetato insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "aminopiralide": {
+        "ptBrName": "aminopiralide",
+        "enName": "aminopyralid",
+        "nome_qu\u00edmico": "4-amino-3,6-dichloropyridine-2-carboxylic acid",
+        "f\u00f3rmula_bruta": "C6H4Cl2N2O2",
+        "grupo_qu\u00edmico": "\u00c1cido piridinocarbox\u00edlico",
+        "classe": "Herbicida"
+    },
+    "Azadiractina": {
+        "ptBrName": "Azadiractina",
+        "enName": "Azadirachtin",
+        "nome_qu\u00edmico": "dimethyl(2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)-10-acetoxy-3,5-",
+        "f\u00f3rmula_bruta": "C35H44O16",
+        "grupo_qu\u00edmico": "Tetranortriterpen\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "ACETATO  DE  (Z)-5-DODECENILA": {
+        "ptBrName": "ACETATO  DE  (Z)-5-DODECENILA",
+        "enName": "(Z)-5-dodecen-1-yl \nacetate",
+        "nome_qu\u00edmico": "(Z)-5-dodecen-1-yl acetate"
+    },
+    "\u00c1CIDO OL\u00c9ICO": {
+        "ptBrName": "\u00c1CIDO OL\u00c9ICO",
+        "enName": "oleic acid",
+        "nome_qu\u00edmico": "\u00c1cido cis-octadecen-9-\u00f3ico",
+        "f\u00f3rmula_bruta": "C18H34O2",
+        "grupo_qu\u00edmico": "\u00c1cido monocarbox\u00edlico insaturado"
+    },
+    "ASPERGILLUS FLAVUS": {
+        "ptBrName": "ASPERGILLUS FLAVUS",
+        "enName": "ASPERGILLUS FLAVUS"
+    },
+    "Azadirachta indica": {
+        "ptBrName": "Azadirachta indica",
+        "enName": "Azadirachta indica"
+    },
+    "Acetato de": {
+        "ptBrName": "Acetato de",
+        "enName": "E,Z",
+        "nome_qu\u00edmico": "(E,Z)-7,9-Dodecadienyl acetate",
+        "f\u00f3rmula_bruta": "C14H24O2",
+        "grupo_qu\u00edmico": "\u00c9ster insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "\u00e1cido absc\u00edsico": {
+        "ptBrName": "\u00e1cido absc\u00edsico",
+        "enName": "abscisic acid",
+        "nome_qu\u00edmico": "(2Z,4E)-5-[(1 S)-1-hydroxy-2,6,6-trimethyl-4-oxocyclohex-2-en-1-yl]-",
+        "f\u00f3rmula_bruta": "C15H20O4",
+        "grupo_qu\u00edmico": "Sesquiterpeno",
+        "classe": "Regulador de crescimento"
+    },
+    "Autographa californica multiple nucleopolyhedrovirus": {
+        "ptBrName": "Autographa californica multiple nucleopolyhedrovirus",
+        "enName": "AcMNPV"
+    },
+    "bentazona": {
+        "ptBrName": "bentazona",
+        "enName": "bentazone",
+        "nome_qu\u00edmico": "3-isopropyl-1H-2,1,3-benzothiadiazin-4(3H)-one 2,2-dioxide",
+        "f\u00f3rmula_bruta": "C10H12N2O3S",
+        "grupo_qu\u00edmico": "Benzotiadiazinona",
+        "classe": "Herbicida"
+    },
+    "BIOALETRINA": {
+        "ptBrName": "BIOALETRINA",
+        "enName": "bioallethrin",
+        "f\u00f3rmula_bruta": "C19H26O3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "BRODIFACUM": {
+        "ptBrName": "BRODIFACUM",
+        "enName": "brodifacoum",
+        "nome_qu\u00edmico": "3-[3-(4\u2032-bromobiphenyl-4-yl)-1,2,3,4-tetrahydro-1-naphthyl]-4-hydroxycoumarin",
+        "f\u00f3rmula_bruta": "C31H23BrO3",
+        "grupo_qu\u00edmico": "Cumar\u00ednico",
+        "classe": "Raticida"
+    },
+    "bromacila": {
+        "ptBrName": "bromacila",
+        "enName": "bromacil",
+        "nome_qu\u00edmico": "5-bromo-3-sec-butyl-6-methyluracil",
+        "f\u00f3rmula_bruta": "C9H13BrN2O2",
+        "grupo_qu\u00edmico": "Uracila",
+        "classe": "Herbicida"
+    },
+    "BENDIOCARBE (bendiocar": {
+        "ptBrName": "BENDIOCARBE (bendiocar",
+        "enName": "BENDIOCARBE (bendiocar",
+        "nome_qu\u00edmico": "2,3-isopropylidenedioxyphenyl methylcarbamate",
+        "f\u00f3rmula_bruta": "C11H13NO4",
+        "grupo_qu\u00edmico": "Metilcarbamato de benzodioxol"
+    },
+    "Brometo de metila": {
+        "ptBrName": "Brometo de metila",
+        "enName": "Methyl bromide",
+        "nome_qu\u00edmico": "methyl bromide ou bromomethane",
+        "f\u00f3rmula_bruta": "CH3Br",
+        "grupo_qu\u00edmico": "Alif\u00e1tico halogenado",
+        "classe": "Inseticida, fungicida, herbicida e nematicida"
+    },
+    "Bifentrina": {
+        "ptBrName": "Bifentrina",
+        "enName": "Bifenthrin",
+        "f\u00f3rmula_bruta": "C23H22ClF3O2",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida, formicida e acaricida"
+    },
+    "BROMADIOLONA": {
+        "ptBrName": "BROMADIOLONA",
+        "enName": "bromadiolone",
+        "nome_qu\u00edmico": "3-[3-(4\u2032-bromobiphenyl-4-yl)-3-hydroxy-1-phenylpropyl]-4-hydroxycoumarin",
+        "f\u00f3rmula_bruta": "C30H23BrO4",
+        "grupo_qu\u00edmico": "Cumar\u00ednico"
+    },
+    "Buprofezina": {
+        "ptBrName": "Buprofezina",
+        "enName": "Buprofezin",
+        "nome_qu\u00edmico": "2-tert-butylimino-3-isopropyl-5-phenyl-1,3,5-thiadiazinan-4-one",
+        "f\u00f3rmula_bruta": "C16H23N3OS",
+        "grupo_qu\u00edmico": "Tiadiazinona",
+        "classe": "Inseticida e acaricida"
+    },
+    "BACULOVIRUS ANTICARSIA": {
+        "ptBrName": "BACULOVIRUS ANTICARSIA",
+        "enName": "BACULOVIRUS ANTICARSIA"
+    },
+    "BACILLUS SPHAERICUS": {
+        "ptBrName": "BACILLUS SPHAERICUS",
+        "enName": "BACILLUS SPHAERICUS"
+    },
+    "bromuconazol": {
+        "ptBrName": "bromuconazol",
+        "enName": "bromuconazole",
+        "f\u00f3rmula_bruta": "C13H12BrCl2N3O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Bispiribaque": {
+        "ptBrName": "Bispiribaque",
+        "enName": "Bispyribac",
+        "nome_qu\u00edmico": "2,6-bis(4,6-dimethoxypyrimidin-2-yloxy)benzoic acid",
+        "f\u00f3rmula_bruta": "C19H18N4O8",
+        "grupo_qu\u00edmico": "\u00c1cido pirimidinil benzoico",
+        "classe": "Herbicida e Regulador de crescimento"
+    },
+    "BENFURACARBE (benfuracar": {
+        "ptBrName": "BENFURACARBE (benfuracar",
+        "enName": "BENFURACARBE (benfuracar",
+        "nome_qu\u00edmico": "ethyl N-[2,3-dihydro-2,2-dimethylbenzofuran-7-yl oxycarbonyl(methyl)aminothio]-",
+        "f\u00f3rmula_bruta": "C20H30N2O5S",
+        "grupo_qu\u00edmico": "Metilcarbamato de benzofuranila",
+        "classe": "Inseticida e nematicida"
+    },
+    "Bicarbonato de pot\u00e1ssio": {
+        "ptBrName": "Bicarbonato de pot\u00e1ssio",
+        "enName": "Potassium bicarbonate",
+        "nome_qu\u00edmico": "potassium hydrogen carbonate",
+        "f\u00f3rmula_bruta": "KHCO3",
+        "grupo_qu\u00edmico": "Inorg\u00e2nico",
+        "classe": "Fungicida"
+    },
+    "Benalaxil": {
+        "ptBrName": "Benalaxil",
+        "enName": "Benalaxyl",
+        "nome_qu\u00edmico": "methyl N-phenylacetyl-N-2,6-xylyl-DL-alaninate",
+        "f\u00f3rmula_bruta": "C20H23NO3",
+        "grupo_qu\u00edmico": "Acilalaninato",
+        "classe": "Fungicida"
+    },
+    "Benziladenina": {
+        "ptBrName": "Benziladenina",
+        "enName": "Benzyladenine",
+        "nome_qu\u00edmico": "N6-benzyladenine",
+        "f\u00f3rmula_bruta": "C12H11N5",
+        "grupo_qu\u00edmico": "Citocinina",
+        "classe": "Regulador de crescimento"
+    },
+    "Beauveria bassiana": {
+        "ptBrName": "Beauveria bassiana",
+        "enName": "Beauveria bassiana"
+    },
+    "Boscalida": {
+        "ptBrName": "Boscalida",
+        "enName": "Boscalid",
+        "nome_qu\u00edmico": "2-chloro-N-(4'-chlorobiphenyl-2-yl)nicotinamide",
+        "f\u00f3rmula_bruta": "C18H12Cl2N2O",
+        "grupo_qu\u00edmico": "Anilida",
+        "classe": "Fungicida"
+    },
+    "bentiavalicarbe isoprop\u00edlico": {
+        "ptBrName": "bentiavalicarbe isoprop\u00edlico",
+        "enName": "benthiavalicarb-isopropyl",
+        "nome_qu\u00edmico": "Isopropyl[(S)-1-{[(R)-1-(6-fluoro-1,3-benzothiazol-2-yl)ethyl]carbamoyl}-2-",
+        "f\u00f3rmula_bruta": "C18H24FN3O3S",
+        "grupo_qu\u00edmico": "Valinamida carbamato",
+        "classe": "Fungicida"
+    },
+    "BACILLUS PUMILUS": {
+        "ptBrName": "BACILLUS PUMILUS",
+        "enName": "BACILLUS PUMILUS"
+    },
+    "BACULOV\u00cdRUS CONDYLORRHIZA VESTIGIALIS": {
+        "ptBrName": "BACULOV\u00cdRUS CONDYLORRHIZA VESTIGIALIS",
+        "enName": "BACULOV\u00cdRUS CONDYLORRHIZA VESTIGIALIS"
+    },
+    "Benzovindiflupir": {
+        "ptBrName": "Benzovindiflupir",
+        "enName": "Benzovindiflupyr"
+    },
+    "Helicoverpa zea nucleopolyhedrovirus": {
+        "ptBrName": "Helicoverpa zea nucleopolyhedrovirus",
+        "enName": "Helicoverpa zea nucleopolyhedrovirus"
+    },
+    "Helicoverpa armigera nucleopolyhedrovirus": {
+        "ptBrName": "Helicoverpa armigera nucleopolyhedrovirus",
+        "enName": "Helicoverpa armigera nucleopolyhedrovirus"
+    },
+    "Bacillus amyloliquefaciens": {
+        "ptBrName": "Bacillus amyloliquefaciens",
+        "enName": "Bacillus amyloliquefaciens"
+    },
+    "BACILLUS METHYLOTROPHICUS": {
+        "ptBrName": "BACILLUS METHYLOTROPHICUS",
+        "enName": "BACILLUS METHYLOTROPHICUS"
+    },
+    "Bacillus firmus": {
+        "ptBrName": "Bacillus firmus",
+        "enName": "Bacillus firmus"
+    },
+    "BACILLUS LICHENIFORMIS": {
+        "ptBrName": "BACILLUS LICHENIFORMIS",
+        "enName": "BACILLUS LICHENIFORMIS"
+    },
+    "Bixafem": {
+        "ptBrName": "Bixafem",
+        "enName": "Bixafen",
+        "nome_qu\u00edmico": "N-(3\u00b4,4\u00b4-dichloro-5-fluorobiphenyl-2-yl)-3-(difluoromethyl)-1-methylpyrazole-4-",
+        "f\u00f3rmula_bruta": "C18H12Cl2F3N30",
+        "grupo_qu\u00edmico": "Pirazolcarboxamida",
+        "classe": "Fungicida"
+    },
+    "Benzoato de emamectina": {
+        "ptBrName": "Benzoato de emamectina",
+        "enName": "Emamectin benzoate",
+        "f\u00f3rmula_bruta": "Mistura de C56H81NO15 (benzoato de emamectina B1a) e C55H79NO15 (benzoato",
+        "grupo_qu\u00edmico": "Avermectina",
+        "classe": "Inseticida"
+    },
+    "Captana": {
+        "ptBrName": "Captana",
+        "enName": "Captan",
+        "nome_qu\u00edmico": "N-(trichloromethylthio)cyclohex-4-ene-1,2-dicarboximide",
+        "f\u00f3rmula_bruta": "C9H8Cl3NO2S",
+        "grupo_qu\u00edmico": "Dicarboximida",
+        "classe": "Fungicida"
+    },
+    "Carbaril": {
+        "ptBrName": "Carbaril",
+        "enName": "Carbaryl",
+        "nome_qu\u00edmico": "1-naphthyl methylcarbamate",
+        "f\u00f3rmula_bruta": "C12H11NO2",
+        "grupo_qu\u00edmico": "Metilcarbamato de naftila",
+        "classe": "Inseticida e Regulador de crescimento"
+    },
+    "Carboxina": {
+        "ptBrName": "Carboxina",
+        "enName": "Carboxin",
+        "nome_qu\u00edmico": "5,6-dihydro-2-methyl-1,4-oxathi-ine-3-carboxanilide",
+        "f\u00f3rmula_bruta": "C12H13NO2S",
+        "grupo_qu\u00edmico": "Carboxanilida",
+        "classe": "Fungicida"
+    },
+    "Casugamicina": {
+        "ptBrName": "Casugamicina",
+        "enName": "Kasugamycin",
+        "nome_qu\u00edmico": "1L-1,3,4/2,5,6-1-deoxy-2,3,4,5,6-pentahydroxycyclohexyl-2-amino-2,3,4,6-",
+        "f\u00f3rmula_bruta": "C14H25N3O9",
+        "grupo_qu\u00edmico": "Antibi\u00f3tico",
+        "classe": "Bactericida e fungicida"
+    },
+    "Cimoxanil": {
+        "ptBrName": "Cimoxanil",
+        "enName": "Cymoxanil",
+        "nome_qu\u00edmico": "1-(2-cyano-2-methoxyiminoacetyl)-3-ethylurea",
+        "f\u00f3rmula_bruta": "C7H10N4O3",
+        "grupo_qu\u00edmico": "Acetamida",
+        "classe": "Fungicida"
+    },
+    "Cipermetrina": {
+        "ptBrName": "Cipermetrina",
+        "enName": "Cypermethrin",
+        "nome_qu\u00edmico": "(RS)-\u03b1-cyano-3-phenoxybenzyl (1RS,3RS; 1RS,3SR)-3-(2,2-dichlorovinyl)-",
+        "f\u00f3rmula_bruta": "C22H19Cl2NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida e formicida"
+    },
+    "Clormequate": {
+        "ptBrName": "Clormequate",
+        "enName": "Chlormequat",
+        "nome_qu\u00edmico": "2-chloroethyltrimethylammonium",
+        "f\u00f3rmula_bruta": "C5H13ClN",
+        "grupo_qu\u00edmico": "Am\u00f4nio quatern\u00e1rio",
+        "classe": "Regulador do crescimento"
+    },
+    "Clorotalonil": {
+        "ptBrName": "Clorotalonil",
+        "enName": "Chlorothalonil",
+        "nome_qu\u00edmico": "tetrachloroisophthalonitrile",
+        "f\u00f3rmula_bruta": "C8Cl4N2",
+        "grupo_qu\u00edmico": "Isoftalonitrila",
+        "classe": "Fungicida"
+    },
+    "clorpirif\u00f3s": {
+        "ptBrName": "clorpirif\u00f3s",
+        "enName": "chlorpyrifos",
+        "nome_qu\u00edmico": "O,O-diethyl O-3,5,6-trichloro-2-pyridylphosphorothioate",
+        "f\u00f3rmula_bruta": "C9H11Cl3NO3PS",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida, formicida e acaricida"
+    },
+    "Cloridrato de cartape": {
+        "ptBrName": "Cloridrato de cartape",
+        "enName": "Cartap hydrochloride",
+        "nome_qu\u00edmico": "S,S'-(2-dimethylaminotrimethylene)bis(thiocarbamate) hydrochloride",
+        "f\u00f3rmula_bruta": "C7H16ClN3O2S2",
+        "grupo_qu\u00edmico": "Bis(tiocarbamato)",
+        "classe": "Inseticida e fungicida"
+    },
+    "Carbossulfano": {
+        "ptBrName": "Carbossulfano",
+        "enName": "Carbosulfan",
+        "nome_qu\u00edmico": "2,3-dihydro-2,2-dimethylbenzofuran-7-yl(dibutylaminothio)methylcarbamate",
+        "f\u00f3rmula_bruta": "C20H32N2O3S",
+        "grupo_qu\u00edmico": "Metilcarbamato de benzofuranila",
+        "classe": "Inseticida, acaricida e nematicida"
+    },
+    "Clorimurom et\u00edlico": {
+        "ptBrName": "Clorimurom et\u00edlico",
+        "enName": "Chlorimuron-ethyl",
+        "nome_qu\u00edmico": "ethyl 2-(4-chloro-6-methoxypyrimidin-2-ylcarbamoylsulfamoyl)benzoate",
+        "f\u00f3rmula_bruta": "C15H15ClN4O6S",
+        "grupo_qu\u00edmico": "Sulfonilureia",
+        "classe": "Herbicida"
+    },
+    "Ciflutrina": {
+        "ptBrName": "Ciflutrina",
+        "enName": "Cyfluthrin",
+        "nome_qu\u00edmico": "(RS)-\u03b1-cyano-4-fluoro-3-phenoxybenzyl (1RS,3RS;1RS,3SR)-3-(2,2-",
+        "f\u00f3rmula_bruta": "C22H18Cl2FNO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Cletodim": {
+        "ptBrName": "Cletodim",
+        "enName": "Clethodim",
+        "nome_qu\u00edmico": "(RS)-2-[(E)-1-[(E)-3-chloroallyloxyimino]propyl]-5-[2-(ethylthio)propyl]-3-",
+        "f\u00f3rmula_bruta": "C17H26ClNO3S",
+        "grupo_qu\u00edmico": "Oxima ciclohexanodiona",
+        "classe": "Herbicida"
+    },
+    "CIFENOTRINA": {
+        "ptBrName": "CIFENOTRINA",
+        "enName": "cyphenothrin",
+        "f\u00f3rmula_bruta": "C24H25NO3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "Clomazona": {
+        "ptBrName": "Clomazona",
+        "enName": "Clomazone",
+        "nome_qu\u00edmico": "2-(2-chlorobenzyl)-4,4-dimethyl-1,2-oxazolidin-3-one",
+        "f\u00f3rmula_bruta": "C12H14ClNO2",
+        "grupo_qu\u00edmico": "Isoxazolidinona",
+        "classe": "Herbicida"
+    },
+    "Ciproconazol": {
+        "ptBrName": "Ciproconazol",
+        "enName": "Cyproconazole",
+        "nome_qu\u00edmico": "(2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3-cyclopropyl-1-(1H-1,2,4-triazol-1-",
+        "f\u00f3rmula_bruta": "C15H18ClN3O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Ciromazina": {
+        "ptBrName": "Ciromazina",
+        "enName": "Cyromazine",
+        "nome_qu\u00edmico": "N-cyclopropyl-1,3,5-triazine-2,4,6-triamine",
+        "f\u00f3rmula_bruta": "C6H10N6",
+        "grupo_qu\u00edmico": "Triazinamina",
+        "classe": "Inseticida"
+    },
+    "clorfluazurom": {
+        "ptBrName": "clorfluazurom",
+        "enName": "chlorfluazuron",
+        "nome_qu\u00edmico": "1-[3,5-dichloro-4-(3-chloro-5-trifluoromethyl-2-pyridyloxy)phenyl]-3-(2,6-",
+        "f\u00f3rmula_bruta": "C20H9Cl3F5N3O3",
+        "grupo_qu\u00edmico": "Benzoilur\u00e9ia",
+        "classe": "Inseticida"
+    },
+    "cianamida": {
+        "ptBrName": "cianamida",
+        "enName": "cyanamide",
+        "nome_qu\u00edmico": "hydrogen cyanamide",
+        "f\u00f3rmula_bruta": "CH2N2",
+        "grupo_qu\u00edmico": "Carbimida",
+        "classe": "Regulador do crescimento"
+    },
+    "Clorfenapir": {
+        "ptBrName": "Clorfenapir",
+        "enName": "Chlorfenapyr",
+        "nome_qu\u00edmico": "4-bromo-2-(4-chlorophenyl)-1-ethoxymethyl-5-(trifluoromethyl)pyrrole-3-",
+        "f\u00f3rmula_bruta": "C15H11BrClF3N2O",
+        "grupo_qu\u00edmico": "Arilpirrol",
+        "classe": "Inseticida e acaricida"
+    },
+    "Cumatetralil": {
+        "ptBrName": "Cumatetralil",
+        "enName": "Coumatetralyl",
+        "nome_qu\u00edmico": "4-hydroxy-3-(1,2,3,4-tetrahydro-1-naphthyl) coumarin",
+        "f\u00f3rmula_bruta": "C19H16O3",
+        "grupo_qu\u00edmico": "Cumar\u00ednico",
+        "classe": "Raticida"
+    },
+    "ciclanilida": {
+        "ptBrName": "ciclanilida",
+        "enName": "cyclanilide",
+        "nome_qu\u00edmico": "1-(2,4-dichloroanilinocarbonyl) cyclopropanecarboxylic acid",
+        "f\u00f3rmula_bruta": "C11H9Cl2NO3",
+        "grupo_qu\u00edmico": "Carboxanilida",
+        "classe": "Regulador do crescimento"
+    },
+    "ciclossulfamurom": {
+        "ptBrName": "ciclossulfamurom",
+        "enName": "cyclosulfamuron",
+        "nome_qu\u00edmico": "1-[2-(cyclopropylcarbonyl)phenylsulfamoyl]-3-(4,6-dimethoxypyrimidin-2-yl)urea",
+        "f\u00f3rmula_bruta": "C17H19N5O6S",
+        "grupo_qu\u00edmico": "Sulfonilur\u00e9ia",
+        "classe": "Herbicida"
+    },
+    "Ciprodinil": {
+        "ptBrName": "Ciprodinil",
+        "enName": "Cyprodinil",
+        "nome_qu\u00edmico": "4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine",
+        "f\u00f3rmula_bruta": "C14H15N3",
+        "grupo_qu\u00edmico": "Anilinopirimidina",
+        "classe": "Fungicida"
+    },
+    "Carfentrazona et\u00edlica": {
+        "ptBrName": "Carfentrazona et\u00edlica",
+        "enName": "Carfentrazone-ethyl",
+        "nome_qu\u00edmico": "ethyl(RS)-2-chloro-3-[2-chloro-5-[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-",
+        "f\u00f3rmula_bruta": "C15H14Cl2F3N3O3",
+        "grupo_qu\u00edmico": "Triazolona",
+        "classe": "Herbicida"
+    },
+    "Cloransulam met\u00edlico": {
+        "ptBrName": "Cloransulam met\u00edlico",
+        "enName": "Cloransulam-methyl",
+        "nome_qu\u00edmico": "methyl 3-chloro-2-(5-ethoxy-7-fluoro[1,2,4]triazolo[1,5-c]pyrimidin-2-",
+        "f\u00f3rmula_bruta": "C15H13ClFN5O5S",
+        "grupo_qu\u00edmico": "Sulfonanilida triazolopirimidina",
+        "classe": "Herbicida"
+    },
+    "CODLELURE": {
+        "ptBrName": "CODLELURE",
+        "enName": "codlem\u00f4nio",
+        "nome_qu\u00edmico": "(8E,10E)-dodeca-8,10-dien-1-ol",
+        "f\u00f3rmula_bruta": "C12H22O",
+        "grupo_qu\u00edmico": "\u00c1lcool insaturado",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "Cloreto de benzalc\u00f4nio": {
+        "ptBrName": "Cloreto de benzalc\u00f4nio",
+        "enName": "Benzalkonium chloride",
+        "nome_qu\u00edmico": "mixture of alkylbenzyldimethylammonium chlorides",
+        "f\u00f3rmula_bruta": "C9H13NRCl"
+    },
+    "Cadusaf\u00f3s": {
+        "ptBrName": "Cadusaf\u00f3s",
+        "enName": "Cadusafos",
+        "nome_qu\u00edmico": "S,S-di-sec-butyl O-ethyl phosphorodithioate",
+        "f\u00f3rmula_bruta": "C10H23O2S2P",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e nematicida"
+    },
+    "Cialofope but\u00edlico": {
+        "ptBrName": "Cialofope but\u00edlico",
+        "enName": "Cyhalofop-butyl",
+        "nome_qu\u00edmico": "butyl (R)-2-[4-(4-cyano-2-fluorophenoxy)phenoxy]propionate",
+        "f\u00f3rmula_bruta": "C20H20FNO4",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxifenoxipropi\u00f4nico",
+        "classe": "Herbicida"
+    },
+    "Hidr\u00f3xido de cobre": {
+        "ptBrName": "Hidr\u00f3xido de cobre",
+        "enName": "Copper hydroxide",
+        "nome_qu\u00edmico": "cupric hydroxide ou copper(II) hydroxide",
+        "f\u00f3rmula_bruta": "Cu(OH)2",
+        "grupo_qu\u00edmico": "Inorg\u00e2nico",
+        "classe": "Fungicida e bactericida"
+    },
+    "cresoxim met\u00edlico": {
+        "ptBrName": "cresoxim met\u00edlico",
+        "enName": "kresoxim-methyl",
+        "nome_qu\u00edmico": "methyl(E)-2-methoxyimino[2-(o-tolyloxymethyl) phenyl]acetate",
+        "f\u00f3rmula_bruta": "C18H19NO4",
+        "grupo_qu\u00edmico": "Estrobilurina",
+        "classe": "Fungicida"
+    },
+    "Alfa-cipermetrina": {
+        "ptBrName": "Alfa-cipermetrina",
+        "enName": "Alpha-cypermethrin",
+        "nome_qu\u00edmico": "racemate comprising (S)-\u03b1-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-",
+        "f\u00f3rmula_bruta": "C22H19Cl2NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Beta-cipermetrina": {
+        "ptBrName": "Beta-cipermetrina",
+        "enName": "Beta-cypermethrin",
+        "nome_qu\u00edmico": "reaction mixture comprising the enantiomeric pair (R)-\u03b1-cyano-3-",
+        "f\u00f3rmula_bruta": "C22H19Cl2NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Zeta-cipermetrina": {
+        "ptBrName": "Zeta-cipermetrina",
+        "enName": "Zeta-cypermethrin",
+        "nome_qu\u00edmico": "mixture of the stereoisomers (S)-alfa-cyano-3-phenoxybenzyl",
+        "f\u00f3rmula_bruta": "C22H19Cl2NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Beta-ciflutrina": {
+        "ptBrName": "Beta-ciflutrina",
+        "enName": "Beta-cyfluthrin",
+        "nome_qu\u00edmico": "reaction mixture of 2 enantiomeric pairs: pair I (S)- \u03b1-cyano-4-fluoro-3-",
+        "f\u00f3rmula_bruta": "C22H18Cl2FNO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Lambda-cialotrina": {
+        "ptBrName": "Lambda-cialotrina",
+        "enName": "Lambda-cyhalothrin",
+        "nome_qu\u00edmico": "Reaction product comprising equal quantities of (R)-\u03b1-cyano-3-",
+        "f\u00f3rmula_bruta": "C23H19ClF3NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Clotianidina": {
+        "ptBrName": "Clotianidina",
+        "enName": "Clothianidin",
+        "nome_qu\u00edmico": "(E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine",
+        "f\u00f3rmula_bruta": "C6H8ClN5O2S",
+        "grupo_qu\u00edmico": "Neonicotinoide",
+        "classe": "Inseticida"
+    },
+    "Gama-cialotrina": {
+        "ptBrName": "Gama-cialotrina",
+        "enName": "Gamma-cyhalothrin",
+        "nome_qu\u00edmico": "(S)-\u03b1-cyano-3-phenoxybenzyl (Z)-(1R,3R)-3-(2-chloro-3,3,3-trifluoropropenyl)-",
+        "f\u00f3rmula_bruta": "C23H19ClF3NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Ciazofamida": {
+        "ptBrName": "Ciazofamida",
+        "enName": "Cyazofamid",
+        "nome_qu\u00edmico": "4-chloro-2-cyano-N,N-dimethyl-5-p-tolylimidazole-1-sulfonamide",
+        "f\u00f3rmula_bruta": "C13H13ClN4O2S",
+        "grupo_qu\u00edmico": "Imidazol",
+        "classe": "Fungicida"
+    },
+    "Cromafenozida": {
+        "ptBrName": "Cromafenozida",
+        "enName": "Chromafenozide",
+        "nome_qu\u00edmico": "2\u2032-tert-butyl-5-methyl-2\u2032-(3,5-xyloyl)chromane-6-carbohydrazide",
+        "f\u00f3rmula_bruta": "C24H30N2O3",
+        "grupo_qu\u00edmico": "Diacilhidrazina",
+        "classe": "Inseticida"
+    },
+    "Clodinafope": {
+        "ptBrName": "Clodinafope",
+        "enName": "Clodinafop",
+        "nome_qu\u00edmico": "(R)-2-[4-(5-chloro-3-fluoro-2-pyridyloxy)phenoxy] propionic acid",
+        "f\u00f3rmula_bruta": "C14H11ClFNO4",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxifenoxipropi\u00f4nico",
+        "classe": "Herbicida"
+    },
+    "CUELURE": {
+        "ptBrName": "CUELURE",
+        "enName": "CUELURE",
+        "nome_qu\u00edmico": "4-(3-Oxobutyl)phenyl acetate"
+    },
+    "Clorantraniliprole": {
+        "ptBrName": "Clorantraniliprole",
+        "enName": "Chlorantraniliprole",
+        "nome_qu\u00edmico": "3-bromo-4\u2032-chloro-1-(3-chloro-2-pyridyl)-2\u2032-methyl-6\u2032-(methylcarbamoyl)",
+        "f\u00f3rmula_bruta": "C18H14BrCl2N5O2",
+        "grupo_qu\u00edmico": "Antranilamida",
+        "classe": "Inseticida"
+    },
+    "COTESIA FLAVIPES": {
+        "ptBrName": "COTESIA FLAVIPES",
+        "enName": "COTESIA FLAVIPES"
+    },
+    "CERATITIS CAPITATA": {
+        "ptBrName": "CERATITIS CAPITATA",
+        "enName": "CERATITIS CAPITATA"
+    },
+    "Ciflumetofem": {
+        "ptBrName": "Ciflumetofem",
+        "enName": "Cyflumetofen",
+        "nome_qu\u00edmico": "2-methoxyethyl (RS)-2-(4-tert-butylphenyl)-2-cyano-3-oxo-3-(\uf061,\uf061,\uf061-trifluoro-o-",
+        "f\u00f3rmula_bruta": "C24H24F3NO4",
+        "grupo_qu\u00edmico": "Benzoilacetonitrila",
+        "classe": "Acaricida"
+    },
+    "Ciantraniliprole": {
+        "ptBrName": "Ciantraniliprole",
+        "enName": "Cyantraniliprole",
+        "nome_qu\u00edmico": "3-bromo-1-(3-chloro-2-pyridyl)-4\u2032-cyano-2\u2032-methyl-6\u2032-(methylcarbamoyl)",
+        "f\u00f3rmula_bruta": "C19H14BrClN6O2",
+        "grupo_qu\u00edmico": "Antranilamida",
+        "classe": "Inseticida"
+    },
+    "CRYPTOLAEMUS MONTROUZIERI": {
+        "ptBrName": "CRYPTOLAEMUS MONTROUZIERI",
+        "enName": "CRYPTOLAEMUS MONTROUZIERI"
+    },
+    "Chrysodeixis includens nucleopolyhedrovirus": {
+        "ptBrName": "Chrysodeixis includens nucleopolyhedrovirus",
+        "enName": "Chrysodeixis includens nucleopolyhedrovirus"
+    },
+    "Colecalciferol": {
+        "ptBrName": "Colecalciferol",
+        "enName": "Cholecalciferol",
+        "nome_qu\u00edmico": "(1S)-3-[2-[(1R,7aR)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-2,3,3a,5,6,7-",
+        "f\u00f3rmula_bruta": "C27H44O"
+    },
+    "\u00f3leo de Coffea sp obtido por prensagem a frio. \n\n1.1. Parte usada da planta: gr\u00e3os de caf\u00e9 \u00edntegros beneficiados e selecionados cru \n\n1.2. Marcador fitoqu\u00edmico: Cafestol \n\n1.3. N\u00ba CAS: 469-83-0 \n\n1.4. Nome qu\u00edmico: (1S,4S,12S,13R,16R,17R)-17-(hydroxymethyl)-12-methyl-8-\noxapentacyclo[14.2.1.01,13.04,12.05,9]nonadeca-5(9),6-dien-17-ol \n\n1.5. Grupo qu\u00edmico: \u00c9steres de \u00e1cidos graxos de origem vegetal (extrato); Diterpenoide \n(marcador) \n\n1.6. F\u00f3rmula bruta: C20H28O3 \n\n1.7. F\u00f3rmula estrutural: \n\n \n\f 2. CARACTER\u00cdSTICAS AGRON\u00d4MICAS \n\n2.1. Classe agron\u00f4mica: Inseticida biol\u00f3gico fitoqu\u00edmico. \n\n2.2. Uso agr\u00edcola: Autorizado em todas as culturas de ocorr\u00eancia dos alvos biol\u00f3gicos. \n\n2.3. Restri\u00e7\u00f5es de uso: Sem restri\u00e7\u00f5es. \n\n2.4. Intervalo de seguran\u00e7a: N\u00e3o determinado em fun\u00e7\u00e3o da n\u00e3o necessidade de estipular o limite \nm\u00e1ximo de res\u00edduo (LMR) para este ingrediente ativo. \n\n2.5. Intervalo de reentrada de pessoas nas culturas e \u00e1reas tratadas: 24 h. Caso necessite entrar \nna  \u00e1rea  tratada  antes  desse  per\u00edodo,  utilize  os  equipamentos  de  prote\u00e7\u00e3o  individual  (EPIs) \nrecomendados para a aplica\u00e7\u00e3o do produto. \n\n2.6. Estudos de res\u00edduos: N\u00e3o requeridos. \n\n3. CARACTER\u00cdSTICAS TOXICOL\u00d3GICAS \n\n3.1 Classifica\u00e7\u00e3o toxicol\u00f3gica: A classifica\u00e7\u00e3o toxicol\u00f3gica n\u00e3o foi determinada para o ingrediente \nativo e deve ser aplicada para cada produto formulado registrado. \n\n3.2. Palavras de advert\u00eancia: Devem ser determinadas para cada produto formulado. \n\n3.3. Frases de perigo: Devem ser determinadas para cada produto formulado. \n\n4. INFORMA\u00c7\u00d5ES DISPON\u00cdVEIS NA LITERATURA CIENT\u00cdFICA \n\n4.1. A exposi\u00e7\u00e3o humana ao cafestol, tanto na forma livre quanto esterificada, ocorre globalmente \ne diariamente atrav\u00e9s do consumo de caf\u00e9. Com rela\u00e7\u00e3o ao Cafestol, estudos em camundongos \nmostraram  que  doses  de  20  mg/kg  e  40  mg/kg  de  cafestol  n\u00e3o  causaram  les\u00f5es  hep\u00e1ticas \nsignificativas (JI et al., 2020); estudos em ratos demonstraram que doses de at\u00e9 5 mg/kg/dia n\u00e3o \napresentaram  efeitos  cardiot\u00f3xicos": {
+        "ptBrName": "\u00f3leo de Coffea sp obtido por prensagem a frio. \n\n1.1. Parte usada da planta: gr\u00e3os de caf\u00e9 \u00edntegros beneficiados e selecionados cru \n\n1.2. Marcador fitoqu\u00edmico: Cafestol \n\n1.3. N\u00ba CAS: 469-83-0 \n\n1.4. Nome qu\u00edmico: (1S,4S,12S,13R,16R,17R)-17-(hydroxymethyl)-12-methyl-8-\noxapentacyclo[14.2.1.01,13.04,12.05,9]nonadeca-5(9),6-dien-17-ol \n\n1.5. Grupo qu\u00edmico: \u00c9steres de \u00e1cidos graxos de origem vegetal (extrato); Diterpenoide \n(marcador) \n\n1.6. F\u00f3rmula bruta: C20H28O3 \n\n1.7. F\u00f3rmula estrutural: \n\n \n\f 2. CARACTER\u00cdSTICAS AGRON\u00d4MICAS \n\n2.1. Classe agron\u00f4mica: Inseticida biol\u00f3gico fitoqu\u00edmico. \n\n2.2. Uso agr\u00edcola: Autorizado em todas as culturas de ocorr\u00eancia dos alvos biol\u00f3gicos. \n\n2.3. Restri\u00e7\u00f5es de uso: Sem restri\u00e7\u00f5es. \n\n2.4. Intervalo de seguran\u00e7a: N\u00e3o determinado em fun\u00e7\u00e3o da n\u00e3o necessidade de estipular o limite \nm\u00e1ximo de res\u00edduo (LMR) para este ingrediente ativo. \n\n2.5. Intervalo de reentrada de pessoas nas culturas e \u00e1reas tratadas: 24 h. Caso necessite entrar \nna  \u00e1rea  tratada  antes  desse  per\u00edodo,  utilize  os  equipamentos  de  prote\u00e7\u00e3o  individual  (EPIs) \nrecomendados para a aplica\u00e7\u00e3o do produto. \n\n2.6. Estudos de res\u00edduos: N\u00e3o requeridos. \n\n3. CARACTER\u00cdSTICAS TOXICOL\u00d3GICAS \n\n3.1 Classifica\u00e7\u00e3o toxicol\u00f3gica: A classifica\u00e7\u00e3o toxicol\u00f3gica n\u00e3o foi determinada para o ingrediente \nativo e deve ser aplicada para cada produto formulado registrado. \n\n3.2. Palavras de advert\u00eancia: Devem ser determinadas para cada produto formulado. \n\n3.3. Frases de perigo: Devem ser determinadas para cada produto formulado. \n\n4. INFORMA\u00c7\u00d5ES DISPON\u00cdVEIS NA LITERATURA CIENT\u00cdFICA \n\n4.1. A exposi\u00e7\u00e3o humana ao cafestol, tanto na forma livre quanto esterificada, ocorre globalmente \ne diariamente atrav\u00e9s do consumo de caf\u00e9. Com rela\u00e7\u00e3o ao Cafestol, estudos em camundongos \nmostraram  que  doses  de  20  mg/kg  e  40  mg/kg  de  cafestol  n\u00e3o  causaram  les\u00f5es  hep\u00e1ticas \nsignificativas (JI et al., 2020); estudos em ratos demonstraram que doses de at\u00e9 5 mg/kg/dia n\u00e3o \napresentaram  efeitos  cardiot\u00f3xicos",
+        "enName": "AL-KENANY;  AL-SHAWI,  2023a"
+    },
+    "dazomete": {
+        "ptBrName": "dazomete",
+        "enName": "dazomet",
+        "nome_qu\u00edmico": "3,5-dimethyl-1,3,5-thiadiazinane-2-thione",
+        "f\u00f3rmula_bruta": "C5H10N2S2",
+        "grupo_qu\u00edmico": "Isotiocianato de metila (precursor de)",
+        "classe": "Fungicida, nematicida e herbicida"
+    },
+    "Deltametrina": {
+        "ptBrName": "Deltametrina",
+        "enName": "Deltamethrin",
+        "nome_qu\u00edmico": "(S)-\u03b1-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dibromovinyl)-2,2-",
+        "f\u00f3rmula_bruta": "C22H19Br2NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida e formicida"
+    },
+    "dicamba": {
+        "ptBrName": "dicamba",
+        "enName": "dicamba",
+        "nome_qu\u00edmico": "3,6-dichloro-o-anisic acid; CAS: 3,6-dichloro-2-methoxybenzoic acid",
+        "f\u00f3rmula_bruta": "C8H6Cl2O3",
+        "grupo_qu\u00edmico": "\u00c1cido benz\u00f3ico",
+        "classe": "Herbicida"
+    },
+    "DICLORV\u00d3S": {
+        "ptBrName": "DICLORV\u00d3S",
+        "enName": "dichlorvos",
+        "nome_qu\u00edmico": "2,2-dichlorovinyl dimethyl phosphate",
+        "f\u00f3rmula_bruta": "C4H7Cl2O4P",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida"
+    },
+    "Diflubenzurom": {
+        "ptBrName": "Diflubenzurom",
+        "enName": "Diflubenzuron",
+        "nome_qu\u00edmico": "1-(4-chlorophenyl)-3-(2,6-difluorobenzoyl)urea",
+        "f\u00f3rmula_bruta": "C14H9ClF2N2O2",
+        "grupo_qu\u00edmico": "Benzoilur\u00e9ia",
+        "classe": "Inseticida e acaricida"
+    },
+    "Dimetoato": {
+        "ptBrName": "Dimetoato",
+        "enName": "Dimethoate",
+        "nome_qu\u00edmico": "O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",
+        "f\u00f3rmula_bruta": "C5H12NO3PS2",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e acaricida"
+    },
+    "Diquate": {
+        "ptBrName": "Diquate",
+        "enName": "Diquat",
+        "nome_qu\u00edmico": "9,10-dihydro-8a,10a-diazoniaphenanthrene ou 6,7-dihydrodipyrido[1,2-a:2',1'-",
+        "f\u00f3rmula_bruta": "C12H12N2",
+        "grupo_qu\u00edmico": "Bipirid\u00edlio",
+        "classe": "Herbicida"
+    },
+    "Ditianona": {
+        "ptBrName": "Ditianona",
+        "enName": "Dithianon",
+        "nome_qu\u00edmico": "5,10-dihydro-5,10-dioxonaphtho[2,3-b]-1,4-dithiine-2,3-dicarbonitrile",
+        "f\u00f3rmula_bruta": "C14H4N2O2S2",
+        "grupo_qu\u00edmico": "Quinona",
+        "classe": "Fungicida"
+    },
+    "Diurom": {
+        "ptBrName": "Diurom",
+        "enName": "Diuron",
+        "nome_qu\u00edmico": "3-(3,4-dichlorophenyl)-1,1-dimethylurea",
+        "f\u00f3rmula_bruta": "C9H10Cl2N2O",
+        "grupo_qu\u00edmico": "Ureia",
+        "classe": "Herbicida"
+    },
+    "Dodina": {
+        "ptBrName": "Dodina",
+        "enName": "Dodine",
+        "nome_qu\u00edmico": "1-dodecylguanidinium acetate",
+        "f\u00f3rmula_bruta": "C15H33N3O2",
+        "grupo_qu\u00edmico": "Guanidina",
+        "classe": "Fungicida"
+    },
+    "2,4-D": {
+        "ptBrName": "2,4-D",
+        "enName": "2,4-D",
+        "nome_qu\u00edmico": "(2,4-dichlorophenoxy) acetic acid",
+        "f\u00f3rmula_bruta": "C8H6Cl2O3",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxialcan\u00f3ico",
+        "classe": "Herbicida"
+    },
+    "Diclorana": {
+        "ptBrName": "Diclorana",
+        "enName": "Dicloran",
+        "nome_qu\u00edmico": "2,6-dichloro-4-nitroaniline",
+        "f\u00f3rmula_bruta": "C6H4Cl2N2O2",
+        "grupo_qu\u00edmico": "Cloroarom\u00e1tico",
+        "classe": "Fungicida"
+    },
+    "DECANOL": {
+        "ptBrName": "DECANOL",
+        "enName": "DECANOL",
+        "nome_qu\u00edmico": "decyl alcohol",
+        "f\u00f3rmula_bruta": "C10H22O",
+        "grupo_qu\u00edmico": "\u00c1lcool alif\u00e1tico",
+        "classe": "Regulador do crescimento (antibrotante)"
+    },
+    "Difenoconazol": {
+        "ptBrName": "Difenoconazol",
+        "enName": "Difenoconazole",
+        "nome_qu\u00edmico": "cis-trans-3-chloro-4-[4-methyl-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-2-",
+        "f\u00f3rmula_bruta": "C19H17Cl2N3O3",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "DIFETIALONA": {
+        "ptBrName": "DIFETIALONA",
+        "enName": "difethialone",
+        "f\u00f3rmula_bruta": "C31H23BrO2S",
+        "grupo_qu\u00edmico": "Benzotiopiranona",
+        "classe": "Raticida"
+    },
+    "Dimetomorfe": {
+        "ptBrName": "Dimetomorfe",
+        "enName": "Dimethomorph",
+        "nome_qu\u00edmico": "(EZ)-4-[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)acryloyl]morpholine",
+        "f\u00f3rmula_bruta": "C21H22ClNO4",
+        "grupo_qu\u00edmico": "Morfolina",
+        "classe": "Fungicida"
+    },
+    "DIFENACUMA": {
+        "ptBrName": "DIFENACUMA",
+        "enName": "difenacoum",
+        "nome_qu\u00edmico": "3-(3-biphenyl-4-yl-1,2,3,4-tetrahydro-1-naphthyl)-4-hydroxycoumarin",
+        "f\u00f3rmula_bruta": "C31H24O3",
+        "grupo_qu\u00edmico": "Cumar\u00ednico",
+        "classe": "Raticida"
+    },
+    "Diafentiurom": {
+        "ptBrName": "Diafentiurom",
+        "enName": "Diafenthiuron",
+        "nome_qu\u00edmico": "1-tert-butyl-3-(2,6-di-isopropyl-4-phenoxyphenyl) thiourea",
+        "f\u00f3rmula_bruta": "C23H32N2OS",
+        "grupo_qu\u00edmico": "Feniltioureia",
+        "classe": "Acaricida e inseticida"
+    },
+    "Diclosulam": {
+        "ptBrName": "Diclosulam",
+        "enName": "Diclosulam",
+        "nome_qu\u00edmico": "N-(2,6-dichlorophenyl)-5-ethoxy-7-fluoro [1,2,4]triazolo[1,5-c]pyrimidine-2-",
+        "f\u00f3rmula_bruta": "C13H10Cl2FN5O3S",
+        "grupo_qu\u00edmico": "Sulfonanilida triazolopirimidina",
+        "classe": "Herbicida"
+    },
+    "DIFLUFENICAM": {
+        "ptBrName": "DIFLUFENICAM",
+        "enName": "diflufenican",
+        "nome_qu\u00edmico": "2\u2032,4\u2032-difluoro-2-(\u03b1,\u03b1,\u03b1-trifluoro-m-tolyloxy) nicotinanilide",
+        "f\u00f3rmula_bruta": "C19H11F5N2O2",
+        "grupo_qu\u00edmico": "Anilida",
+        "classe": "Herbicida"
+    },
+    "5,9-DIMETILPENTADECANO": {
+        "ptBrName": "5,9-DIMETILPENTADECANO",
+        "enName": "5,9-dimethylpentadecane",
+        "nome_qu\u00edmico": "5,9-dimethylpentadecane",
+        "f\u00f3rmula_bruta": "C17H36",
+        "grupo_qu\u00edmico": "Hidrocarboneto",
+        "classe": "Ferom\u00f4nio Sint\u00e9tico"
+    },
+    "DIFACINONA": {
+        "ptBrName": "DIFACINONA",
+        "enName": "diphacinone",
+        "nome_qu\u00edmico": "2-(diphenylacetyl)indan-1,3-dione",
+        "f\u00f3rmula_bruta": "C23H16O3",
+        "grupo_qu\u00edmico": "Indandiona",
+        "classe": "Rodenticida"
+    },
+    "4,8-DIMETILDECANAL": {
+        "ptBrName": "4,8-DIMETILDECANAL",
+        "enName": "4,8-dimethyldecanal",
+        "nome_qu\u00edmico": "4,8-dimethyldecanal",
+        "f\u00f3rmula_bruta": "C12H24O",
+        "grupo_qu\u00edmico": "Alde\u00eddo",
+        "classe": "Ferom\u00f4nio Sint\u00e9tico"
+    },
+    "Diachasmimorpha longicaudata": {
+        "ptBrName": "Diachasmimorpha longicaudata",
+        "enName": "Diachasmimorpha longicaudata"
+    },
+    "1,4-Dimetoxibenzeno": {
+        "ptBrName": "1,4-Dimetoxibenzeno",
+        "enName": "1,4-Dimethoxybenzeno",
+        "nome_qu\u00edmico": "1,4-Dimethoxybenzeno",
+        "f\u00f3rmula_bruta": "C8H10O2",
+        "grupo_qu\u00edmico": "\u00e9ter arom\u00e1tico",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "dimoxistrobina": {
+        "ptBrName": "dimoxistrobina",
+        "enName": "dimoxystrobin",
+        "nome_qu\u00edmico": "(E)-2-(methoxyimino)-N-methyl-2-[\u03b1-(2,5-xylyloxy)-o-tolyl]acetamide",
+        "f\u00f3rmula_bruta": "C19H22N2O3",
+        "grupo_qu\u00edmico": "Estrobilurina",
+        "classe": "Fungicida"
+    },
+    "Deladenus siricidicola": {
+        "ptBrName": "Deladenus siricidicola",
+        "enName": "Deladenus siricidicola"
+    },
+    "Dinotefurano": {
+        "ptBrName": "Dinotefurano",
+        "enName": "Dinotefuran",
+        "nome_qu\u00edmico": "(EZ)-(RS)-1-methyl-2-nitro-3-[(tetrahydro-3-furyl)methyl]guanidine",
+        "f\u00f3rmula_bruta": "C7H14N4O3",
+        "grupo_qu\u00edmico": "Neonicotinoide",
+        "classe": "Inseticida"
+    },
+    "enxofre": {
+        "ptBrName": "enxofre",
+        "enName": "sulfur",
+        "nome_qu\u00edmico": "s\u00falfur",
+        "f\u00f3rmula_bruta": "S8",
+        "grupo_qu\u00edmico": "Inorg\u00e2nico",
+        "classe": "Acaricida e fungicida"
+    },
+    "Etefom": {
+        "ptBrName": "Etefom",
+        "enName": "Ethephon",
+        "nome_qu\u00edmico": "2-chloroethylphosphonic acid",
+        "f\u00f3rmula_bruta": "C2H6ClO3P",
+        "grupo_qu\u00edmico": "Etileno (precursor de)",
+        "classe": "Regulador de crescimento"
+    },
+    "etoprof\u00f3s": {
+        "ptBrName": "etoprof\u00f3s",
+        "enName": "ethoprophos",
+        "nome_qu\u00edmico": "O-ethyl S,S-dipropyl phosphorodithioate",
+        "f\u00f3rmula_bruta": "C8H19O2PS2",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Nematicida e inseticida"
+    },
+    "etridiazol": {
+        "ptBrName": "etridiazol",
+        "enName": "etridiazole",
+        "nome_qu\u00edmico": "ethyl 3-trichloromethyl-1,2,4-thiadiazol-5-yl ether",
+        "f\u00f3rmula_bruta": "C5H5Cl3N2OS",
+        "grupo_qu\u00edmico": "\u00c9ter tiadiaz\u00f3lico",
+        "classe": "Fungicida"
+    },
+    "EMPENTRINA": {
+        "ptBrName": "EMPENTRINA",
+        "enName": "empenthrin",
+        "f\u00f3rmula_bruta": "C18H26O2",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "ESBIOL": {
+        "ptBrName": "ESBIOL",
+        "enName": "esbiol",
+        "f\u00f3rmula_bruta": "C19H26O3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "Esfenvalerato": {
+        "ptBrName": "Esfenvalerato",
+        "enName": "Esfenvalerate",
+        "nome_qu\u00edmico": "(S)-\u03b1-cyano-3-phenoxybenzyl (S)-2-(4-chloro phenyl)-3-methylbutyrate",
+        "f\u00f3rmula_bruta": "C25H22ClNO3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "Etofenproxi": {
+        "ptBrName": "Etofenproxi",
+        "enName": "Etofenprox",
+        "nome_qu\u00edmico": "2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxy benzyl ether",
+        "f\u00f3rmula_bruta": "C25H28O3",
+        "grupo_qu\u00edmico": "\u00c9ter difen\u00edlico",
+        "classe": "Inseticida"
+    },
+    "ESBIOTRIM": {
+        "ptBrName": "ESBIOTRIM",
+        "enName": "esbiothrin",
+        "f\u00f3rmula_bruta": "C19H26O3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "epoxiconazol": {
+        "ptBrName": "epoxiconazol",
+        "enName": "epoxiconazole",
+        "nome_qu\u00edmico": "(2RS,3SR)-1-[3-(2-chlorophenyl)-2,3-epoxy-2-(4-fluorophenyl)propyl]-1H-",
+        "f\u00f3rmula_bruta": "C17H13ClFN3O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Etoxissulfurom": {
+        "ptBrName": "Etoxissulfurom",
+        "enName": "Ethoxysulfuron",
+        "nome_qu\u00edmico": "1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethoxyphenoxysulfonyl)urea",
+        "f\u00f3rmula_bruta": "C15H18N4O7S",
+        "grupo_qu\u00edmico": "Sulfonilureia",
+        "classe": "Herbicida"
+    },
+    "Espinosade": {
+        "ptBrName": "Espinosade",
+        "enName": "Spinosad",
+        "f\u00f3rmula_bruta": "Fator A: C41H65NO10",
+        "grupo_qu\u00edmico": "Espinosinas",
+        "classe": "Inseticida"
+    },
+    "Espirodiclofeno": {
+        "ptBrName": "Espirodiclofeno",
+        "enName": "Spirodiclofen",
+        "f\u00f3rmula_bruta": "C21H24 Cl2O4",
+        "grupo_qu\u00edmico": "Cetoenol",
+        "classe": "Acaricida"
+    },
+    "Espiromesifeno": {
+        "ptBrName": "Espiromesifeno",
+        "enName": "Spiromesifen",
+        "nome_qu\u00edmico": "3-mesityl-2-oxo-1-oxaspiro[4.4]non-3-en-4-yl 3,3-dimethylbutanoate",
+        "f\u00f3rmula_bruta": "C23H30O4",
+        "grupo_qu\u00edmico": "Cetoenol",
+        "classe": "Inseticida e acaricida"
+    },
+    "ETANOL": {
+        "ptBrName": "ETANOL",
+        "enName": "ethanol",
+        "nome_qu\u00edmico": "ethyl alcohol"
+    },
+    "EUGENOL-MET\u00cdLICO": {
+        "ptBrName": "EUGENOL-MET\u00cdLICO",
+        "enName": "methyl eugenol",
+        "nome_qu\u00edmico": "1,2-dimethoxy-4-(2-propenyl)benzene",
+        "f\u00f3rmula_bruta": "C11H14O2",
+        "grupo_qu\u00edmico": "\u00e9ter arom\u00e1tico",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "etiprole": {
+        "ptBrName": "etiprole",
+        "enName": "ethiprole",
+        "nome_qu\u00edmico": "5-amino-1-(2,6-dichloro-\u03b1,\u03b1,\u03b1-trifluoro-p-tolyl)-4-ethylsulfinylpyrazole-3-",
+        "f\u00f3rmula_bruta": "C13H9Cl2F3N4OS",
+        "grupo_qu\u00edmico": "Fenilpirazol",
+        "classe": "Inseticida"
+    },
+    "Etoxazol": {
+        "ptBrName": "Etoxazol",
+        "enName": "Etoxazole",
+        "nome_qu\u00edmico": "(RS)-5-tert-butyl-2-[2-(2,6-difluorophenyl)-4,5 dihydro-1,3-oxazol-4-yl]phenetole",
+        "f\u00f3rmula_bruta": "C21H23F2NO2",
+        "grupo_qu\u00edmico": "Difenil oxazolina",
+        "classe": "Acaricida"
+    },
+    "Ecklonia maxima": {
+        "ptBrName": "Ecklonia maxima",
+        "enName": "Ecklonia maxima"
+    },
+    "Espinetoram": {
+        "ptBrName": "Espinetoram",
+        "enName": "Spinetoram",
+        "nome_qu\u00edmico": "mixture of 50-90% (2R,3aR,5aR,5bS,9S,13S,14R,16aS,16bR)-2-(6-deoxy-3-",
+        "f\u00f3rmula_bruta": "XDE-175-J: C42H69NO10; XDE-175-L: C43H69NO10",
+        "grupo_qu\u00edmico": "Espinosinas",
+        "classe": "Inseticida"
+    },
+    "Fenitrotiona": {
+        "ptBrName": "Fenitrotiona",
+        "enName": "Fenitrothion",
+        "nome_qu\u00edmico": "O,O-dimethyl O-4-nitro-m-tolyl phosphorothioate",
+        "f\u00f3rmula_bruta": "C9H12NO5PS",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e formicida"
+    },
+    "FENVALERATO": {
+        "ptBrName": "FENVALERATO",
+        "enName": "fenvalerate",
+        "nome_qu\u00edmico": "(RS)-\u03b1-cyano-3-phenoxybenzyl (RS)-2-(4-chloro phenyl)-3-methylbutyrate",
+        "f\u00f3rmula_bruta": "C25H22ClNO3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida e acaricida"
+    },
+    "Folpete": {
+        "ptBrName": "Folpete",
+        "enName": "Folpet",
+        "nome_qu\u00edmico": "N-(trichloromethylthio)phthalimide",
+        "f\u00f3rmula_bruta": "C9H4Cl3NO2S",
+        "grupo_qu\u00edmico": "Dicarboximida",
+        "classe": "Fungicida"
+    },
+    "fosetil-alum\u00ednio": {
+        "ptBrName": "fosetil-alum\u00ednio",
+        "enName": "fosetyl-aluminium",
+        "nome_qu\u00edmico": "aluminium tris(ethyl phosphonate)",
+        "f\u00f3rmula_bruta": "C6H18AlO9P3",
+        "grupo_qu\u00edmico": "Fosfonato",
+        "classe": "Fungicida"
+    },
+    "fosfina": {
+        "ptBrName": "fosfina",
+        "enName": "phosphine",
+        "nome_qu\u00edmico": "phosphine",
+        "f\u00f3rmula_bruta": "PH3",
+        "grupo_qu\u00edmico": "Inorg\u00e2nico",
+        "classe": "Inseticida fumigante, formicida e cupinicida"
+    },
+    "Fosmete": {
+        "ptBrName": "Fosmete",
+        "enName": "Phosmet",
+        "nome_qu\u00edmico": "O,O-dimethyl S-phthalimidomethyl phosphorodithioate",
+        "f\u00f3rmula_bruta": "C11H12NO4PS2",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e acaricida"
+    },
+    "Fluasifope-P but\u00edlico": {
+        "ptBrName": "Fluasifope-P but\u00edlico",
+        "enName": "Fluazifop-P-butyl",
+        "nome_qu\u00edmico": "butyl (R)-2-[4-(5-trifluoromethyl-2-pyridyloxy) phenoxy]propionate",
+        "f\u00f3rmula_bruta": "C19H20F3NO4",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxifenoxipropi\u00f4nico",
+        "classe": "Herbicida"
+    },
+    "Fenpropimorfe": {
+        "ptBrName": "Fenpropimorfe",
+        "enName": "Fenpropimorph",
+        "nome_qu\u00edmico": "(RS)-cis-4-[3-(4-tert-butylphenyl)-2-methylpropyl] -2,6-dimethylmorpholine",
+        "f\u00f3rmula_bruta": "C20H33NO",
+        "grupo_qu\u00edmico": "Morfolina",
+        "classe": "Fungicida"
+    },
+    "Fomesafem": {
+        "ptBrName": "Fomesafem",
+        "enName": "Fomesafen",
+        "nome_qu\u00edmico": "5-(2-chloro-\u03b1,\u03b1,\u03b1-trifluoro-p-tolyloxy)-N-methyl sulfonyl-2-nitrobenzamide",
+        "f\u00f3rmula_bruta": "C15H10ClF3N2O6S",
+        "grupo_qu\u00edmico": "\u00c9ter difen\u00edlico",
+        "classe": "Herbicida"
+    },
+    "Fenpropatrina": {
+        "ptBrName": "Fenpropatrina",
+        "enName": "Fenpropathrin",
+        "nome_qu\u00edmico": "(RS)-alfa-cyano-3-phenoxybenzyl 2,2,3,3-tetramethylcyclopropanecarboxylate",
+        "f\u00f3rmula_bruta": "C22H23NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Acaricida e Inseticida"
+    },
+    "ftalida": {
+        "ptBrName": "ftalida",
+        "enName": "phthalide",
+        "nome_qu\u00edmico": "4,5,6,7-tetrachlorophthalide",
+        "f\u00f3rmula_bruta": "C8H2Cl4O2",
+        "grupo_qu\u00edmico": "Ftalida",
+        "classe": "Fungicida"
+    },
+    "Fenoxaprope-P": {
+        "ptBrName": "Fenoxaprope-P",
+        "enName": "Fenoxaprop-P",
+        "nome_qu\u00edmico": "(R)-2-[4-(6-chloro-1,3-benzoxazol-2-yloxy) phenoxy]propionic acid",
+        "f\u00f3rmula_bruta": "C16H12ClNO5",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxifenoxipropi\u00f4nico",
+        "classe": "Herbicida"
+    },
+    "FLOCUMAFENO": {
+        "ptBrName": "FLOCUMAFENO",
+        "enName": "flocoumafen",
+        "f\u00f3rmula_bruta": "C33H25F3O4",
+        "grupo_qu\u00edmico": "Cumar\u00ednico",
+        "classe": "Raticida"
+    },
+    "Fenotrina": {
+        "ptBrName": "Fenotrina",
+        "enName": "Phenothrin",
+        "nome_qu\u00edmico": "3-phenoxybenzyl (1RS)-cis-trans-2,2-dimethyl-3-(2-methylprop-1-",
+        "f\u00f3rmula_bruta": "C23H26O3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Flutriafol": {
+        "ptBrName": "Flutriafol",
+        "enName": "Flutriafol",
+        "nome_qu\u00edmico": "(RS)-2,4'-difluoro-\u03b1-(1H-1,2,4-triazol-1-ylmethyl)benzhydryl alcohol",
+        "f\u00f3rmula_bruta": "C16H13F2N3O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Fenpiroximato": {
+        "ptBrName": "Fenpiroximato",
+        "enName": "Fenpyroximate",
+        "nome_qu\u00edmico": "tert-butyl (E)-alfa-(1,3-dimethyl-5-phenoxypyrazol-4-ylmethyleneamino-oxy)-p-",
+        "f\u00f3rmula_bruta": "C24H27N3O4",
+        "grupo_qu\u00edmico": "Pirazol",
+        "classe": "Acaricida"
+    },
+    "FLUMETRALINA": {
+        "ptBrName": "FLUMETRALINA",
+        "enName": "flumetralin",
+        "nome_qu\u00edmico": "N-(2-chloro-6-fluorobenzyl)-N-ethyl-\u03b1,\u03b1,\u03b1-trifluoro -2,6-dinitro-p-toluidine",
+        "f\u00f3rmula_bruta": "C16H12ClF4N3O4",
+        "grupo_qu\u00edmico": "Dinitroanilina",
+        "classe": "Regulador de crescimento"
+    },
+    "Flumetsulam": {
+        "ptBrName": "Flumetsulam",
+        "enName": "Flumetsulam",
+        "nome_qu\u00edmico": "2',6'-difluoro-5-methyl[1,2,4]triazolo[1,5-a] pyrimidine-2-sulfonanilide",
+        "f\u00f3rmula_bruta": "C12H9F2N5O2S",
+        "grupo_qu\u00edmico": "Sulfonanilida triazolopirimidina",
+        "classe": "Herbicida"
+    },
+    "Formetanato": {
+        "ptBrName": "Formetanato",
+        "enName": "Formetanate",
+        "nome_qu\u00edmico": "3-dimethylaminomethyleneiminophenyl methylcarbamate",
+        "f\u00f3rmula_bruta": "C11H15N3O2",
+        "grupo_qu\u00edmico": "Metilcarbamato de fenila",
+        "classe": "Inseticida e acaricida"
+    },
+    "Fluroxipir mept\u00edlico": {
+        "ptBrName": "Fluroxipir mept\u00edlico",
+        "enName": "Fluroxypyr-meptyl",
+        "nome_qu\u00edmico": "1-methylheptylester (4-amino-3,5-dichloro-6-fluoro-2-pyridyloxy)acetate",
+        "f\u00f3rmula_bruta": "C15H21Cl2FN2O3",
+        "grupo_qu\u00edmico": "\u00c1cido piridiniloxialcan\u00f3ico",
+        "classe": "Herbicida"
+    },
+    "Fipronil": {
+        "ptBrName": "Fipronil",
+        "enName": "Fipronil",
+        "nome_qu\u00edmico": "(RS)-5-amino-1-(2,6-dichloro-\u03b1,\u03b1,\u03b1-trifluoro-p-tolyl)-4-trifluoro",
+        "f\u00f3rmula_bruta": "C12H4Cl2F6N4OS",
+        "grupo_qu\u00edmico": "Pirazol",
+        "classe": "Inseticida, formicida e cupinicida"
+    },
+    "flufenoxurom": {
+        "ptBrName": "flufenoxurom",
+        "enName": "flufenoxuron",
+        "nome_qu\u00edmico": "1-[4-(2-chloro-\u03b1,\u03b1,\u03b1-trifluoro-p-tolyloxy)-2-fluoro phenyl]-3-(2,6-",
+        "f\u00f3rmula_bruta": "C21H11ClF6N2O3",
+        "grupo_qu\u00edmico": "Benzoilur\u00e9ia",
+        "classe": "Acaricida e inseticida"
+    },
+    "Flumicloraque pent\u00edlico": {
+        "ptBrName": "Flumicloraque pent\u00edlico",
+        "enName": "Flumiclorac-pentyl",
+        "nome_qu\u00edmico": "pentyl [2-chloro-5-(cyclohex-1-ene-1,2-dicarboximido)-4-fluorophenoxy]acetate",
+        "f\u00f3rmula_bruta": "C21H23ClFNO5",
+        "grupo_qu\u00edmico": "Ciclohexenodicarboximida",
+        "classe": "Herbicida"
+    },
+    "Flumioxazina": {
+        "ptBrName": "Flumioxazina",
+        "enName": "Flumioxazin",
+        "nome_qu\u00edmico": "N-(7-fluoro-3,4-dihydro-3-oxo-4-prop-2-ynyl-2H-1,4-benzoxazin-6-",
+        "f\u00f3rmula_bruta": "C19H15FN2O4",
+        "grupo_qu\u00edmico": "Ciclohexenodicarboximida",
+        "classe": "Herbicida"
+    },
+    "Fluazinam": {
+        "ptBrName": "Fluazinam",
+        "enName": "Fluazinam",
+        "nome_qu\u00edmico": "3-chloro-N-(3-chloro-5-trifluoromethyl-2-pyridyl)-\u03b1,\u03b1,\u03b1-trifluoro-2,6-dinitro-p-",
+        "f\u00f3rmula_bruta": "C13H4Cl2F6N4O4",
+        "grupo_qu\u00edmico": "Fenilpiridinilamina",
+        "classe": "Acaricida e fungicida"
+    },
+    "Flazassulfurom": {
+        "ptBrName": "Flazassulfurom",
+        "enName": "Flazasulfuron",
+        "nome_qu\u00edmico": "1-(4,6-dimethoxypyrimidin-2-yl)-3-(3-trifluoro methyl-2-pyridylsulfonyl)urea",
+        "f\u00f3rmula_bruta": "C13H12F3N5O5S",
+        "grupo_qu\u00edmico": "Sulfonilur\u00e9ia",
+        "classe": "Herbicida"
+    },
+    "Fludioxonil": {
+        "ptBrName": "Fludioxonil",
+        "enName": "Fludioxonil",
+        "nome_qu\u00edmico": "4-(2,2-difluoro-1,3-benzodioxol-4-yl)pyrrole-3-carbonitrile",
+        "f\u00f3rmula_bruta": "C12H6F2N2O2",
+        "grupo_qu\u00edmico": "Fenilpirrol",
+        "classe": "Fungicida"
+    },
+    "Fostiazato": {
+        "ptBrName": "Fostiazato",
+        "enName": "Fosthiazate",
+        "nome_qu\u00edmico": "(RS)-S-sec-butyl O-ethyl 2-oxo-1,3-thiazolidin-3-ylphosphonothioate",
+        "f\u00f3rmula_bruta": "C9H18NO3PS2",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e nematicida"
+    },
+    "Fluquinconazol": {
+        "ptBrName": "Fluquinconazol",
+        "enName": "Fluquinconazole",
+        "nome_qu\u00edmico": "3-(2,4-dichlorophenyl)-6-fluoro-2-(1H-1,2,4-triazol-1-yl)quinazolin-4(3H)-one",
+        "f\u00f3rmula_bruta": "C16H8Cl2FN5O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "famoxadona": {
+        "ptBrName": "famoxadona",
+        "enName": "famoxadone",
+        "nome_qu\u00edmico": "3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione",
+        "f\u00f3rmula_bruta": "C22H18N2O4",
+        "grupo_qu\u00edmico": "Oxazolidinadiona",
+        "classe": "Fungicida"
+    },
+    "Foransulfurom": {
+        "ptBrName": "Foransulfurom",
+        "enName": "Foramsulfuron",
+        "nome_qu\u00edmico": "1-(4,6-dimethoxypyrimidin-2-yl)-3-[2-(dimethyl carbamoyl)-5-formamidophenyl",
+        "f\u00f3rmula_bruta": "C17H20N6O7S",
+        "grupo_qu\u00edmico": "Sulfonilur\u00e9ia",
+        "classe": "Herbicida"
+    },
+    "Fenamidona": {
+        "ptBrName": "Fenamidona",
+        "enName": "Fenamidone"
+    },
+    "FLURIDONA": {
+        "ptBrName": "FLURIDONA",
+        "enName": "fluridone",
+        "nome_qu\u00edmico": "1-metil-3-fenil-5-[3-(trifluormetil)-fenil]-4(1H)-piridinona",
+        "f\u00f3rmula_bruta": "C19H14F3NO",
+        "grupo_qu\u00edmico": "Piridinona",
+        "classe": "Herbicida sist\u00eamico"
+    },
+    "FOXIM": {
+        "ptBrName": "FOXIM",
+        "enName": "phoxim",
+        "f\u00f3rmula_bruta": "C12H15N2O3PS",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida"
+    },
+    "Fentina": {
+        "ptBrName": "Fentina",
+        "enName": "Fentin",
+        "nome_qu\u00edmico": "triphenyltin",
+        "f\u00f3rmula_bruta": "C18H15Sn",
+        "grupo_qu\u00edmico": "Organoest\u00e2nico",
+        "classe": "Fungicida"
+    },
+    "Flonicamida": {
+        "ptBrName": "Flonicamida",
+        "enName": "Flonicamid",
+        "nome_qu\u00edmico": "N-cyanomethyl-4-(trifluoromethyl)nicotinamide",
+        "f\u00f3rmula_bruta": "C9H6F3N3O",
+        "grupo_qu\u00edmico": "Nicotinoide",
+        "classe": "Inseticida"
+    },
+    "FLUORETO DE S\u00d3DIO": {
+        "ptBrName": "FLUORETO DE S\u00d3DIO",
+        "enName": "sodium fluoride",
+        "nome_qu\u00edmico": "Sodium fluoride",
+        "f\u00f3rmula_bruta": "NaF",
+        "grupo_qu\u00edmico": "Inorg\u00e2nico",
+        "classe": "Fungicida e inseticida"
+    },
+    "fluopicolida": {
+        "ptBrName": "fluopicolida",
+        "enName": "fluopicolide",
+        "nome_qu\u00edmico": "2,6-dichloro-N-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]methyl]benzamide",
+        "f\u00f3rmula_bruta": "C14H8Cl3F3N2O",
+        "grupo_qu\u00edmico": "Benzamida piridina",
+        "classe": "fungicida"
+    },
+    "Flubendiamida": {
+        "ptBrName": "Flubendiamida",
+        "enName": "Flubendiamide",
+        "nome_qu\u00edmico": "3-iodo-N\u2032-(2-mesyl-1,1-dimethylethyl)-N-{4-[1,2,2,2-tetrafluoro-1-",
+        "f\u00f3rmula_bruta": "C23H22F7IN2O4S",
+        "grupo_qu\u00edmico": "Diamida do \u00e1cido ft\u00e1lico",
+        "classe": "Inseticida"
+    },
+    "Flutolanil": {
+        "ptBrName": "Flutolanil",
+        "enName": "Flutolanil",
+        "nome_qu\u00edmico": "\u03b1,\u03b1,\u03b1-trifluoro-3\u2032-isopropoxy-o-toluanilide",
+        "f\u00f3rmula_bruta": "C17H16F3NO2",
+        "grupo_qu\u00edmico": "Carboxamida",
+        "classe": "Fungicida"
+    },
+    "Fluxapiroxade": {
+        "ptBrName": "Fluxapiroxade",
+        "enName": "Fluxapyroxad",
+        "nome_qu\u00edmico": "3-(difluoromethyl)-1-methyl-N-(3\u2032,4\u2032,5\u2032-trifluorobiphenyl-2-yl)pyrazole-4-",
+        "f\u00f3rmula_bruta": "C18H12F5N3O",
+        "grupo_qu\u00edmico": "Pirazolcarboxamida",
+        "classe": "Fungicida"
+    },
+    "Flupiradifurone": {
+        "ptBrName": "Flupiradifurone",
+        "enName": "Flupyradifurone",
+        "nome_qu\u00edmico": "4-[(6-chloro-3-pyridylmethyl) (2,2-difluoroethyl)amino]furan-2(5H)-one",
+        "f\u00f3rmula_bruta": "C12H11ClF2N2O2",
+        "grupo_qu\u00edmico": "Butenolida",
+        "classe": "Inseticida"
+    },
+    "fluensulfona": {
+        "ptBrName": "fluensulfona",
+        "enName": "fluensulfone",
+        "nome_qu\u00edmico": "5-chloro-2-(3,4,4-trifluorobut-3-en-1-ylsulfonyl)-1,3-thiazole",
+        "f\u00f3rmula_bruta": "C7H5NO2S2ClF3",
+        "grupo_qu\u00edmico": "Fluoroalquenil sulfona heteroc\u00edclica",
+        "classe": "Nematicida"
+    },
+    "Florpirauxifeno benz\u00edlico": {
+        "ptBrName": "Florpirauxifeno benz\u00edlico",
+        "enName": "Florpyrauxifen-benzyl",
+        "nome_qu\u00edmico": "benzyl 4-amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-5-",
+        "f\u00f3rmula_bruta": "C20H14Cl2F2N2O3",
+        "grupo_qu\u00edmico": "\u00c1cido piridinocarbox\u00edlico",
+        "classe": "Herbicida"
+    },
+    "Fluopiram": {
+        "ptBrName": "Fluopiram",
+        "enName": "Fluopyram"
+    },
+    "GRANDLURE": {
+        "ptBrName": "GRANDLURE",
+        "enName": "grandlure",
+        "grupo_qu\u00edmico": "\u00c1lcoois alif\u00e1ticos e alde\u00eddos",
+        "classe": "Ferom\u00f4nio Sint\u00e9tico"
+    },
+    "Glufosinato de am\u00f4nio": {
+        "ptBrName": "Glufosinato de am\u00f4nio",
+        "enName": "Glufosinate-ammonium",
+        "nome_qu\u00edmico": "ammonium 4-[hydroxy(methyl)phosphinoyl]-DL-homoalaninate ou",
+        "f\u00f3rmula_bruta": "C5H15N2O4P",
+        "grupo_qu\u00edmico": "Homoalanina substitu\u00edda",
+        "classe": "Herbicida e regulador de crescimento"
+    },
+    "GOSSIPLURE": {
+        "ptBrName": "GOSSIPLURE",
+        "enName": "gossyplure",
+        "f\u00f3rmula_bruta": "C18 H32 O2",
+        "grupo_qu\u00edmico": "Acetatos insaturados",
+        "classe": "Ferom\u00f4nio Sint\u00e9tico"
+    },
+    "Geraniol": {
+        "ptBrName": "Geraniol",
+        "enName": "Geraniol",
+        "nome_qu\u00edmico": "(E)-3,7-dimethyl-2,6-octadien-1-ol",
+        "f\u00f3rmula_bruta": "C10H18O",
+        "grupo_qu\u00edmico": "\u00c1lcool alif\u00e1tico",
+        "classe": "Repelente de inseto"
+    },
+    "Hexazinona": {
+        "ptBrName": "Hexazinona",
+        "enName": "Hexazinone",
+        "nome_qu\u00edmico": "3-cyclohexyl-6-dimethylamino-1-methyl-1,3,5-triazine-2,4(1H,3H)-dione",
+        "f\u00f3rmula_bruta": "C12H20N4O2",
+        "grupo_qu\u00edmico": "Triazinona",
+        "classe": "Herbicida"
+    },
+    "Hidrazida mal\u00eaica": {
+        "ptBrName": "Hidrazida mal\u00eaica",
+        "enName": "Maleic hydrazide",
+        "nome_qu\u00edmico": "6-hydroxy-2H-pyridazin-3-one ou 1,2-dihydro pyridazine-3,6-dione",
+        "f\u00f3rmula_bruta": "C4H4N2O2; C4H3N2O2K (sal pot\u00e1ssico)",
+        "grupo_qu\u00edmico": "Piridazinadiona",
+        "classe": "Regulador de crescimento"
+    },
+    "HIDRAMETHYLNONE": {
+        "ptBrName": "HIDRAMETHYLNONE",
+        "enName": "hydramethylnon",
+        "f\u00f3rmula_bruta": "C25H24F6N4",
+        "grupo_qu\u00edmico": "Amidinohidrazona",
+        "classe": "Inseticida"
+    },
+    "Hexitiazoxi": {
+        "ptBrName": "Hexitiazoxi",
+        "enName": "Hexythiazox",
+        "nome_qu\u00edmico": "(4RS,5RS)-5-(4-chlorophenyl)-N-cyclohexyl-4-methyl-2-oxo-1,3-thiazolidine-3-",
+        "f\u00f3rmula_bruta": "C17H21ClN2O2S",
+        "grupo_qu\u00edmico": "Tiazolidina carboxamida",
+        "classe": "Acaricida"
+    },
+    "Haloxifope-P met\u00edlico": {
+        "ptBrName": "Haloxifope-P met\u00edlico",
+        "enName": "Haloxyfop-P-methyl",
+        "nome_qu\u00edmico": "methyl (R)-2-{4-[3-chloro-5-(trifluoromethyl)-2-pyridyloxy]phenoxy}propanoate",
+        "f\u00f3rmula_bruta": "C16H13ClF3NO4",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxifenoxipropi\u00f4nico",
+        "classe": "Herbicida"
+    },
+    "halossulfurom": {
+        "ptBrName": "halossulfurom",
+        "enName": "halosulfuron",
+        "nome_qu\u00edmico": "3-chloro-5-(4,6-dimethoxypyrimidin-2-ylcarbamoylsulfamoyl)-1-methylpyrazole-4-",
+        "f\u00f3rmula_bruta": "C12H13ClN6O7S",
+        "grupo_qu\u00edmico": "Sulfonilureia",
+        "classe": "Herbicida"
+    },
+    "HEXAFLUMUROM": {
+        "ptBrName": "HEXAFLUMUROM",
+        "enName": "hexaflumuron",
+        "nome_qu\u00edmico": "1-[3,5-dichloro-4-(1,1,2,2-tetrafluoroethoxy) phenyl]-3-(2,6-difluorobenzoyl)urea",
+        "f\u00f3rmula_bruta": "C16H8Cl2F6N2O3",
+        "grupo_qu\u00edmico": "Benzoil ur\u00e9ia",
+        "classe": "Inseticida regulador do crescimento"
+    },
+    "Heterorhabditis bacteriophora": {
+        "ptBrName": "Heterorhabditis bacteriophora",
+        "enName": "Heterorhabditis bacteriophora"
+    },
+    "Hirsutella thompsonii": {
+        "ptBrName": "Hirsutella thompsonii",
+        "enName": "Hirsutella thompsonii"
+    },
+    "iprodiona": {
+        "ptBrName": "iprodiona",
+        "enName": "iprodione",
+        "nome_qu\u00edmico": "3-(3,5-dichlorophenyl)-N-isopropyl-2,4-dioxo imidazolidine-1-carboxamide",
+        "f\u00f3rmula_bruta": "C13H13Cl2N3O3",
+        "grupo_qu\u00edmico": "Dicarboximida",
+        "classe": "Fungicida"
+    },
+    "Imazaquim": {
+        "ptBrName": "Imazaquim",
+        "enName": "Imazaquin",
+        "nome_qu\u00edmico": "(RS)-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)quinoline-3-carboxylic acid",
+        "f\u00f3rmula_bruta": "C17H17N3O3",
+        "grupo_qu\u00edmico": "Imidazolinona",
+        "classe": "Herbicida"
+    },
+    "Imazetapir": {
+        "ptBrName": "Imazetapir",
+        "enName": "Imazethapyr",
+        "nome_qu\u00edmico": "(RS)-5-ethyl-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)nicotinic acid",
+        "f\u00f3rmula_bruta": "C15H19N3O3",
+        "grupo_qu\u00edmico": "Imidazolinona",
+        "classe": "Herbicida"
+    },
+    "Imazapir": {
+        "ptBrName": "Imazapir",
+        "enName": "Imazapyr",
+        "nome_qu\u00edmico": "2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)nicotinic acid",
+        "f\u00f3rmula_bruta": "C13H15N3O3",
+        "grupo_qu\u00edmico": "Imidazolinona",
+        "classe": "Herbicida"
+    },
+    "Imidacloprido": {
+        "ptBrName": "Imidacloprido",
+        "enName": "Imidacloprid",
+        "nome_qu\u00edmico": "1-(6-chloro-3-pyridylmethyl)-N-nitroimidazolidin-2-ylideneamine",
+        "f\u00f3rmula_bruta": "C9H10ClN5O2",
+        "grupo_qu\u00edmico": "Neonicotinoide",
+        "classe": "Inseticida"
+    },
+    "imazamoxi": {
+        "ptBrName": "imazamoxi",
+        "enName": "imazamox",
+        "nome_qu\u00edmico": "(RS)-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)-5-methoxymethylnicotinic",
+        "f\u00f3rmula_bruta": "C15H19N3O4",
+        "grupo_qu\u00edmico": "Imidazolinona",
+        "classe": "Herbicida"
+    },
+    "Imibenconazol": {
+        "ptBrName": "Imibenconazol",
+        "enName": "Imibenconazole",
+        "nome_qu\u00edmico": "4-chlorobenzyl N-(2,4-dichlorophenyl)-2-(1H-1,2,4-triazol-1-yl)thioacetamidate",
+        "f\u00f3rmula_bruta": "C17H13Cl3N4S",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "IMIPROTRIM": {
+        "ptBrName": "IMIPROTRIM",
+        "enName": "imiprothrin",
+        "f\u00f3rmula_bruta": "C17H22N2O4",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "Isoxaflutol": {
+        "ptBrName": "Isoxaflutol",
+        "enName": "Isoxaflutole",
+        "nome_qu\u00edmico": "5-cyclopropyl-1,2-oxazol-4-yl \uf0b5,\uf0b5,\uf0b5-trifluoro-2-mesyl-p-tolyl ketone",
+        "f\u00f3rmula_bruta": "C15H12F3NO4S",
+        "grupo_qu\u00edmico": "Isoxazol",
+        "classe": "Herbicida"
+    },
+    "Imazalil": {
+        "ptBrName": "Imazalil",
+        "enName": "Imazalil",
+        "nome_qu\u00edmico": "(RS)-1-(\u00df-allyloxy-2,4-dichlorophenylethyl) imidazole",
+        "f\u00f3rmula_bruta": "C14H14Cl2N2O",
+        "grupo_qu\u00edmico": "Imidazol",
+        "classe": "Fungicida"
+    },
+    "Imazapique": {
+        "ptBrName": "Imazapique",
+        "enName": "Imazapic",
+        "nome_qu\u00edmico": "(RS)-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)-5-methylnicotinic acid",
+        "f\u00f3rmula_bruta": "C14H17N3O3",
+        "grupo_qu\u00edmico": "Imidazolinona",
+        "classe": "Herbicida"
+    },
+    "Indoxacarbe (Indoxacar": {
+        "ptBrName": "Indoxacarbe (Indoxacar",
+        "enName": "Indoxacarbe (Indoxacar",
+        "nome_qu\u00edmico": "methyl(S)-N-[7-chloro-2,3,4a,5-tetrahydro-4a-(methoxycarbonyl) indeno[1,2-e]",
+        "f\u00f3rmula_bruta": "C22H17ClF3N3O7",
+        "grupo_qu\u00edmico": "Oxadiazina",
+        "classe": "Inseticida, cupinicida e formicida"
+    },
+    "iodosulfurom met\u00edlico s\u00f3dico": {
+        "ptBrName": "iodosulfurom met\u00edlico s\u00f3dico",
+        "enName": "iodosulfuron-methyl-sodium",
+        "nome_qu\u00edmico": "methyl 4-iodo-2-[3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)ureidosulfonyl]",
+        "f\u00f3rmula_bruta": "C14H13IN5NaO6S",
+        "grupo_qu\u00edmico": "Sulfonilur\u00e9ia",
+        "classe": "Herbicida"
+    },
+    "Ipconazol": {
+        "ptBrName": "Ipconazol",
+        "enName": "Ipconazole",
+        "nome_qu\u00edmico": "(1RS, 2SR, 5RS, 1RS, 2SR, 5SR)-2-(4-chlorobenzyl)-5-isopropyl-1-(1H-1,2,4-",
+        "f\u00f3rmula_bruta": "C18H24ClN3O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Isaria fumosorosea": {
+        "ptBrName": "Isaria fumosorosea",
+        "enName": "Isaria fumosorosea"
+    },
+    "Isocicloseram (Isocycloseram) \n\n1.2. Sinon\u00edmias: SYN547407; SYN547407A; SYN547407B \n\n1.3. N\u00b0 CAS: 2061933-85-3 \n\n1.4. Nome qu\u00edmico: 4-[(5RS)-5-(3,5-dichloro-4-fluorophenyl)-4,5-dihydro-5-(trifluoromethyl) \nisoxazol-3-yl]-N-[(4RS)-2-ethyl-3-oxoisoxazolidin-4-yl]-o-toluamide, containing 80\u2013100% of the \n(5S,4R)-isomer. \n\nIs\u00f4mero A (S,R - SYN548088); Is\u00f4mero B (S,S - SYN548089); Is\u00f4mero C (R,R - SYN548090); \nIs\u00f4mero D (R,S - SYN548091) \n\n1.5. F\u00f3rmula bruta: C23H19Cl2F4N3O4 \n\n1.6. F\u00f3rmula estrutural: \n\n1.8. Grupo qu\u00edmico: Isoxazolina \n\n2. CARACTER\u00cdSTICAS AGRON\u00d4MICAS \n\n2.1 Classe agron\u00f4mica: Acaricida e Inseticida. \n\n2.2. Uso agr\u00edcola: autorizado conforme indicado na tabela abaixo. \n\nCulturas \n\nModalidade de Emprego \n(Aplica\u00e7\u00e3o)  \n\nLMR \n(mg/kg) \n\nIntervalo de Seguran\u00e7a \n\nAbacate1 \nAbacaxi1 \nAb\u00f3bora1 \nAbobrinha1 \nAc\u00e1cia \nA\u00e7a\u00ed1 \nAcelga1 \nAcerola1 \n\nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\n0,01 \n0,01 \n0,06 \n0,06 \n\n0,2 \n15 \n0,2 \n\n60 dias \n60 dias \n1 dia \n1 dia \n\nUNA \n\n21 dias \n1 dia \n1 dia \n\n \n \n\fAgri\u00e3o1 \nAlecrim1 \nAlface \nAlgod\u00e3o \nAlho1 \nAlho-por\u00f31 \nAlmeir\u00e3o1 \nAmeixa1 \nAmendoim1 \nAmora1 \nAnon\u00e1ceas1 \nArroz \nAveia1 \nAzeitona1 \nAc\u00e1cia \nBanana \n\nBatata \n\nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nTronco \nFoliar \n\nSolo \nFoliar \n\nBatata-doce1 \n\nBatata yacon1 \n\nBerinjela1 \n\nBeterraba1 \n\nBr\u00f3colis1 \nCacau1 \nCaf\u00e9 \nCaju1 \n\nCana-de-a\u00e7\u00facar \n\nCanola1 \nCaqui1 \n\nCar\u00e11 \n\nCarambola1 \nCastanha-do-par\u00e11 \nCebola \nCebolinha \nCedro \n\nCenoura \n\nCenteio1 \nCevada1 \nChalota1 \nChic\u00f3ria1 \nChuchu1 \n\nSulco de plantio \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSolo \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\n15 \n2 \n15 \n0,4 \n0,01 \n2 \n15 \n0,07 \n0,04 \n0,2 \n0,01 \n2 \n0,3 \n0,01 \n\n0,01 \n\n0,01 \n\n0,4 \n\n0,4 \n\n0,2 \n\n0,4 \n\n0,01 \n0,01 \n0,04 \n0,2 \n\n0,15 \n\n0,15 \n0,2 \n\n0,4 \n\n0,2 \n0,2 \n0,01 \n2 \n\n0,4 \n\n0,3 \n0,3 \n0,01 \n15 \n0,06 \n\n1 dia \n1 dia \n1 dia \n21 dias \n1 dia \n1 dia \n1 dia \n14 dias \n14 dias \n1 dia \n60 dias \n14 dias \n15 dias \n60 dias \n\nUNA \n\n10 dias \n7 dias \n\n(1) \n3 dias \n\n(1) \n3 dias \n\n(1) \n1 dia \n3 dias \n\n(1) \n1 dia \n60 dias \n40 dias \n60 dias \n60 dias \n\n(1) \n14 dias \n60 dias \n3 dias \n\n(1) \n60 dias \n21 dias \n1 dia \n1 dia \n\nUNA \n\n3 dias \n\n(1) \n15 dias \n15 dias \n1 dia \n1 dia \n1 dia \n\n\fFoliar \nCitros \nFoliar \nCoco \nCoentro1 \nFoliar \nCouve1 \nFoliar \nCouve-chinesa1 \nFoliar \nCouve-de-bruxelas1  Foliar \nCouve-flor1 \nFoliar \nCupia\u00e7u1 \nFoliar \nDend\u00ea1 \nFoliar \nErva-doce1 \nFoliar \nErvilha1 \nFoliar \nEspinafre1 \nFoliar \nEst\u00e9via1 \nFoliar \nEstrag\u00e3o1 \nFoliar \nFoliar \nEucalipto \nFoliar \nFeij\u00e3o \nFeij\u00f5es1,2 \nFoliar \nFigo1 \nFoliar \nFramboesa1 \nFoliar \nFoliar \nFumo \nFoliar \n\nGengibre1 \n\nGergelim1 \nGirassol \nGoiaba1 \nGr\u00e3o-de-bico1 \nGuaran\u00e11 \nHortel\u00e31 \n\nInhame1 \n\nJil\u00f31 \nLentilha1 \nLichia1 \nLinha\u00e7a1 \nL\u00fapulo1 \nMa\u00e7\u00e3 \nMacad\u00e2mia1 \nMaca\u00faba1 \nMam\u00e3o \nMamona1 \n\nMandioca1 \n\nMandioquinha-salsa1 \n\nManga1 \nMangaba1 \nManjeric\u00e3o1 \nManjerona1 \nMaracuj\u00e11 \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\n0,2 \n0,2 \n2 \n0,01 \n0,01 \n0,01 \n0,01 \n0,01 \n0,2 \n2 \n0,04 \n15 \n15 \n2 \n\n0,04 \n0,04 \n0,2 \n0,2 \n\n0,4 \n\n0,15 \n0,15 \n0,2 \n0,04 \n0,01 \n2 \n\n0,4 \n\n0,2 \n0,04 \n0,01 \n0,15 \n0,2 \n0,04 \n0,01 \n0,2 \n0,01 \n0,15 \n\n0,4 \n\n0,4 \n\n0,01 \n0,2 \n2 \n2 \n0,01 \n\n15 dias \n21 dias \n1 dia \n1 dia \n1 dia \n1 dia \n1 dia \n60 dias \n21 dias \n1 dia \n14 dias \n1 dia \n1 dia \n1 dia \n\nUNA \n\n14 dias \n14 dias \n60 dias \n1 dia \n\nUNA \n\n3 dias \n\n(1) \n14 dias \n14 dias \n60 dias \n14 dias \n60 dias \n1 dia \n3 dias \n\n(1) \n1 dia \n14 dias \n60 dias \n14 dias \n60 dias \n14 dias \n60 dias \n21 dias \n60 dias \n14 dias \n3 dias \n\n(1) \n3 dias \n\n(1) \n60 dias \n60 dias \n1 dia \n1 dia \n60 dias \n\n\fMarmelo1 \nMaxixe1 \nMelancia \nMel\u00e3o \nMilheto1 \nMilho \nMirtilo1 \nMogno \nMorango \nMostarda1 \n\nNabo1 \n\nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nNectarina1 \nFoliar \nN\u00easpera1 \nFoliar \nNoz-pec\u00e31 \nFoliar \nOr\u00e9gano1 \nFoliar \nParic\u00e1 \nFoliar \nPastagem \nFoliar \nPepino \nFoliar \nPera1 \nFoliar \nP\u00eassego \nFoliar \nPimenta1 \nFoliar \nPiment\u00e3o1 \nFoliar \nPinh\u00e3o1 \nFoliar \nPinus \nFoliar \nPitanga1 \nFoliar \nPitaya1 \nFoliar \nPlantas ornamentais  Foliar \nPupunha1 \nFoliar \nQuiabo1 \nFoliar \nQuiu\u00ed1 \nFoliar \nFoliar \n\nRabanete1 \n\nRepolho \nRom\u00e31 \nR\u00facula1 \nSalsa1 \nS\u00e1lvia1 \nSeriguela1 \nSeringueira \nSoja \nSorgo1 \nTeca \nTomate \nTrigo \nTriticale1 \nUva \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\n0,07 \n0,06 \n0,01 \n0,01 \n0,01 \n0,01 \n0,2 \n\n0,2 \n15 \n\n0,4 \n\n0,07 \n0,07 \n0,01 \n2 \n\n0,06 \n0,07 \n0,07 \n0,2 \n0,2 \n0,2 \n\n14 dias \n1 dia \n14 dias \n21 dias \n40 dias \n40 dias \n1 dia \n\nUNA \n\n1 dia \n1 dia \n3 dias \n\n(1) \n14 dias \n14 dias \n60 dias \n1 dia \n\nUNA \nUNA \n\n1 dia \n14 dias \n14 dias \n1 dia \n1 dia \n21 dias \n\nUNA \n\n0,2 \n0,01 \n                 UNA \n0,2 \n0,2 \n0,2 \n\n1 dia \n60 dias \n\n21 dias \n1 dia \n60 dias \n3 dias \n\n0,4 \n\n0,01 \n0,01 \n15 \n2 \n2 \n0,2 \n\n0,01 \n0,01 \n\n0,15 \n0,3 \n0,3 \n0,2 \n\n(1) \n1 dia \n60 dias \n1 dia \n1 dia \n1 dia \n1 dia \n\nUNA \n\n21 dias \n40 dias \n\nUNA \n\n1 dia \n15 dias \n15 dias \n60 dias \n\nLMR = Limite M\u00e1ximo de Res\u00edduo \n\nUNA = Uso N\u00e3o Alimentar \n\n(1)  N\u00e3o determinado devido \u00e0 modalidade de emprego \n\n \n\f1 Inclus\u00e3o de culturas solicitada pela Instru\u00e7\u00e3o Normativa Conjunta - INC n\u00ba 01/2014 \n\n2 Todas as esp\u00e9cies de feij\u00f5es Vigna spp, Cajanus spp e Phaseolos spp \n\n2.3. Defini\u00e7\u00e3o de res\u00edduo para fins de conformidade com o LMR e avalia\u00e7\u00e3o do risco diet\u00e9tico: \nisocicloseram. \n\n2.4.  Outro  uso  agr\u00edcola  n\u00e3o  relacionado  ao  uso  direto  em  culturas:  controle  de  formigas \ncortadeiras \n\n2.5.  Uso  n\u00e3o  agr\u00edcola:  manuten\u00e7\u00e3o  e  conserva\u00e7\u00e3o  de  ativos  em  faixas  de  servid\u00e3o,  faixa  de \ndom\u00ednio, direito de via, \u00e1reas de desapropria\u00e7\u00e3o, bem como aceiros de margens e acostamentos \nde  estradas  e  rodovias,  ferrovias,  pista  de  aeroporto,  p\u00e1tios,  oleodutos,  gasodutos,  terminais, \nlinhas de transmiss\u00e3o, linhas de alta tens\u00e3o e distribui\u00e7\u00e3o de energia el\u00e9trica, subesta\u00e7\u00f5es de \nenergia,  canteiros,  usinas  fotovoltaicas  e  e\u00f3licas  e  outras  \u00e1reas  n\u00e3o  agr\u00edcolas  que  tenham \npotenciais riscos gerados pela presen\u00e7a dos alvos, florestas naturais (nativas), recupera\u00e7\u00e3o de \n\u00e1reas degradadas, reflorestamento e \u00e1reas de restaura\u00e7\u00e3o, tais como: reservas legais, \u00e1reas de \npreserva\u00e7\u00e3o permanente, unidades de conserva\u00e7\u00e3o e outras \u00e1reas destinadas \u00e0 restaura\u00e7\u00e3o de \necossistemas em processo de regenera\u00e7\u00e3o natural ou de implanta\u00e7\u00e3o. \n\n3. CARACTER\u00cdSTICAS TOXICOL\u00d3GICAS \n\n3.1. Classifica\u00e7\u00e3o toxicol\u00f3gica: \n\nResultado do \nestudo \nDL50 > 5000 mg/kg \np.c. \n\nCategoria \nde Perigo \nN\u00e3o \nClassificado \n\nDL50 > 5000 mg/kg \np.c. \n\nN\u00e3o \nClassificado \n\nFrase de Perigo \n\nPalavra de \nAdvert\u00eancia \n\nPictograma \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\nClasse de \nPerigo* \nToxicidade \nAguda Oral \nToxicidade \nAguda \nCut\u00e2nea \n\nToxicidade \nAguda \nInalat\u00f3ria \n\nCL50 > 4,62 mg/L \nde ar \n\nSensibiliza\u00e7\u00e3o \nD\u00e9rmica \n\nSensibilizante \n\nToxicidade a \n\u00f3rg\u00e3o-alvos \nespec\u00edficos por \nexposi\u00e7\u00e3o \nrepetida \n\nAdrenal \n\nOs efeitos \nobservados na \ngl\u00e2ndula adrenal, \nem ratos e \ncamundongos, em \nmachos e em \nf\u00eameas, nos \nestudos \nsubcr\u00f4nicos e nos \nestudos cr\u00f4nicos, \npelas vias oral ou \nvia subcut\u00e2nea, \n\n4 \n\n1 \n\n2 \n\nNocivo se \ninalado \n\nATEN\u00c7\u00c3O \n\nPode provocar \nrea\u00e7\u00f5es \nal\u00e9rgicas na pele \n\nATEN\u00c7\u00c3O \n\nProvoca danos \u00e0 \ngl\u00e2ndula adrenal \npor exposi\u00e7\u00e3o \nrepetida ou \nprolongada \n\nATEN\u00c7\u00c3O \n\n \n \n  \n \n \n \n\festatisticamente \nsignificativos \ne  relacionados ao \ntratamento com \nisocicloseram \nforam: aumento \nda produ\u00e7\u00e3o de \nc\u00e9lulas brancas \n(linf\u00f3citos, \nmon\u00f3citos, \nneutr\u00f3filos, \nbas\u00f3filos), \nredu\u00e7\u00e3o do \ncolesterol, \naumento do peso \nabsoluto e relativo \nda adrenal, \naumento de \nhipertrofia no \nc\u00f3rtex da adrenal, \naumento de \nhipertrofia na zona \nfasciculada da \nadrenal, aumento \nde vacuoliza\u00e7\u00e3o \nda zona \nfasciculada da \nadrenal. \nF\u00edgado \n\nOs efeitos \nobservados no \nf\u00edgado, em ratos e \ncamundongos, em \nmachos e em \nf\u00eameas, nos \nestudos \nsubcr\u00f4nicos e nos \nestudos cr\u00f4nicos, \npelas vias: oral ou \nsubcut\u00e2nea, \nestatisticamente \nsignificativos e \nrelacionados ao \ntratamento com \nisocicloseram \nforam: aumento \ndo peso absoluto \ne relativo, \naumento da \nincid\u00eancia e da \nseveridade de \nvacuoliza\u00e7\u00e3o \ncentrolobular, \naumento de \nvacuoliza\u00e7\u00e3o \nmicrovesicular, \naumento de \narquitetura lobular \nproeminente e \n\nToxicidade a \n\u00f3rg\u00e3o-alvos \nespec\u00edficos por \nexposi\u00e7\u00e3o \nrepetida \n\n2 \n\nProvoca danos \nao f\u00edgado por \nexposi\u00e7\u00e3o \nrepetida ou \nprolongada \n\nATEN\u00c7\u00c3O \n\n \n\faumento de \ninfiltrado de \nc\u00e9lulas \ninflamat\u00f3rias. \nSistema \nHemolinforeticular \n\nOs efeitos \nobservados nos \n\u00f3rg\u00e3os do sistema \nhemolinforeticular \n(linfonodos, timo, \nba\u00e7o), em ratos e \ncamundongos, em \nmachos e em \nf\u00eameas, nos \nestudos \nsubcr\u00f4nicos e nos \nestudos cr\u00f4nicos, \npela via oral, \nestatisticamente \nsignificativos e \nrelacionados ao \ntratamento com \nisocicloseram \nforam: aumento \nde reticul\u00f3citos; \naumento da \nincid\u00eancia e da \nseveridade de \nplasmacitose e de \ninfiltra\u00e7\u00e3o de \nc\u00e9lulas \nplasm\u00e1ticas com \nc\u00e9lulas Russell \nba\u00e7o; aumento do \npeso absoluto e \nrelativo ba\u00e7o; \naumento de \neritropoiese ba\u00e7o; \naumento de \ncelularidade \nlinfoide ba\u00e7o e \naumento de \nhematopoiese \nextramedular \nba\u00e7o;  aumento da \nincid\u00eancia e da \nseveridade de \nplasmacitose com \nc\u00e9lulas Russell \ntimo; aumento do \npeso absoluto \ntimo e aumento de \ncelularidade \nlinfoide na zona \ncortical \ntimo;  aumento da \nincid\u00eancia e da \nseveridade de \n\nToxicidade a \n\u00f3rg\u00e3o-alvos \nespec\u00edficos por \nexposi\u00e7\u00e3o \nrepetida \n\n2 \n\nProvoca danos \nao ba\u00e7o, ao timo \ne aos linfonodos \npor exposi\u00e7\u00e3o \nrepetida ou \nprolongada \n\nATEN\u00c7\u00c3O \n\n \n\fplasmacitose nos \nlinfonodos \nmandibular e \nlombar com \nc\u00e9lulas Russell; \naumento de \neritrocitose nos \nlinfonodos \nmandibulares, \nmediastinal e \nmesent\u00e9rico e \naumento de \neritrofagocitose \nnos linfonodos \nmandibulares. \nGametog\u00eanese \n\nOs efeitos \nobservados na \nadrenal \nconcomitantement\ne com os efeitos \nobservados na \ngametog\u00eanese \n(espermatozoides \ne fol\u00edculos \nprimordiais e \nprim\u00e1rios), dos \nestudos \nsubcr\u00f4nicos ou \ncr\u00f4nicos em ratos \nou camundongos, \nforam \nrelacionadas ao \ntratamento com \nisocicloseram, \nestatisticamente \nsignificativos, fora \ndo controle \nhist\u00f3rico do \nlaborat\u00f3rio e com \ndose-resposta. Os \nefeitos \nobservados em \nmachos foram:": {
+        "ptBrName": "Isocicloseram (Isocycloseram) \n\n1.2. Sinon\u00edmias: SYN547407; SYN547407A; SYN547407B \n\n1.3. N\u00b0 CAS: 2061933-85-3 \n\n1.4. Nome qu\u00edmico: 4-[(5RS)-5-(3,5-dichloro-4-fluorophenyl)-4,5-dihydro-5-(trifluoromethyl) \nisoxazol-3-yl]-N-[(4RS)-2-ethyl-3-oxoisoxazolidin-4-yl]-o-toluamide, containing 80\u2013100% of the \n(5S,4R)-isomer. \n\nIs\u00f4mero A (S,R - SYN548088); Is\u00f4mero B (S,S - SYN548089); Is\u00f4mero C (R,R - SYN548090); \nIs\u00f4mero D (R,S - SYN548091) \n\n1.5. F\u00f3rmula bruta: C23H19Cl2F4N3O4 \n\n1.6. F\u00f3rmula estrutural: \n\n1.8. Grupo qu\u00edmico: Isoxazolina \n\n2. CARACTER\u00cdSTICAS AGRON\u00d4MICAS \n\n2.1 Classe agron\u00f4mica: Acaricida e Inseticida. \n\n2.2. Uso agr\u00edcola: autorizado conforme indicado na tabela abaixo. \n\nCulturas \n\nModalidade de Emprego \n(Aplica\u00e7\u00e3o)  \n\nLMR \n(mg/kg) \n\nIntervalo de Seguran\u00e7a \n\nAbacate1 \nAbacaxi1 \nAb\u00f3bora1 \nAbobrinha1 \nAc\u00e1cia \nA\u00e7a\u00ed1 \nAcelga1 \nAcerola1 \n\nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\n0,01 \n0,01 \n0,06 \n0,06 \n\n0,2 \n15 \n0,2 \n\n60 dias \n60 dias \n1 dia \n1 dia \n\nUNA \n\n21 dias \n1 dia \n1 dia \n\n \n \n\fAgri\u00e3o1 \nAlecrim1 \nAlface \nAlgod\u00e3o \nAlho1 \nAlho-por\u00f31 \nAlmeir\u00e3o1 \nAmeixa1 \nAmendoim1 \nAmora1 \nAnon\u00e1ceas1 \nArroz \nAveia1 \nAzeitona1 \nAc\u00e1cia \nBanana \n\nBatata \n\nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nTronco \nFoliar \n\nSolo \nFoliar \n\nBatata-doce1 \n\nBatata yacon1 \n\nBerinjela1 \n\nBeterraba1 \n\nBr\u00f3colis1 \nCacau1 \nCaf\u00e9 \nCaju1 \n\nCana-de-a\u00e7\u00facar \n\nCanola1 \nCaqui1 \n\nCar\u00e11 \n\nCarambola1 \nCastanha-do-par\u00e11 \nCebola \nCebolinha \nCedro \n\nCenoura \n\nCenteio1 \nCevada1 \nChalota1 \nChic\u00f3ria1 \nChuchu1 \n\nSulco de plantio \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSolo \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\n15 \n2 \n15 \n0,4 \n0,01 \n2 \n15 \n0,07 \n0,04 \n0,2 \n0,01 \n2 \n0,3 \n0,01 \n\n0,01 \n\n0,01 \n\n0,4 \n\n0,4 \n\n0,2 \n\n0,4 \n\n0,01 \n0,01 \n0,04 \n0,2 \n\n0,15 \n\n0,15 \n0,2 \n\n0,4 \n\n0,2 \n0,2 \n0,01 \n2 \n\n0,4 \n\n0,3 \n0,3 \n0,01 \n15 \n0,06 \n\n1 dia \n1 dia \n1 dia \n21 dias \n1 dia \n1 dia \n1 dia \n14 dias \n14 dias \n1 dia \n60 dias \n14 dias \n15 dias \n60 dias \n\nUNA \n\n10 dias \n7 dias \n\n(1) \n3 dias \n\n(1) \n3 dias \n\n(1) \n1 dia \n3 dias \n\n(1) \n1 dia \n60 dias \n40 dias \n60 dias \n60 dias \n\n(1) \n14 dias \n60 dias \n3 dias \n\n(1) \n60 dias \n21 dias \n1 dia \n1 dia \n\nUNA \n\n3 dias \n\n(1) \n15 dias \n15 dias \n1 dia \n1 dia \n1 dia \n\n\fFoliar \nCitros \nFoliar \nCoco \nCoentro1 \nFoliar \nCouve1 \nFoliar \nCouve-chinesa1 \nFoliar \nCouve-de-bruxelas1  Foliar \nCouve-flor1 \nFoliar \nCupia\u00e7u1 \nFoliar \nDend\u00ea1 \nFoliar \nErva-doce1 \nFoliar \nErvilha1 \nFoliar \nEspinafre1 \nFoliar \nEst\u00e9via1 \nFoliar \nEstrag\u00e3o1 \nFoliar \nFoliar \nEucalipto \nFoliar \nFeij\u00e3o \nFeij\u00f5es1,2 \nFoliar \nFigo1 \nFoliar \nFramboesa1 \nFoliar \nFoliar \nFumo \nFoliar \n\nGengibre1 \n\nGergelim1 \nGirassol \nGoiaba1 \nGr\u00e3o-de-bico1 \nGuaran\u00e11 \nHortel\u00e31 \n\nInhame1 \n\nJil\u00f31 \nLentilha1 \nLichia1 \nLinha\u00e7a1 \nL\u00fapulo1 \nMa\u00e7\u00e3 \nMacad\u00e2mia1 \nMaca\u00faba1 \nMam\u00e3o \nMamona1 \n\nMandioca1 \n\nMandioquinha-salsa1 \n\nManga1 \nMangaba1 \nManjeric\u00e3o1 \nManjerona1 \nMaracuj\u00e11 \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nFoliar \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\n0,2 \n0,2 \n2 \n0,01 \n0,01 \n0,01 \n0,01 \n0,01 \n0,2 \n2 \n0,04 \n15 \n15 \n2 \n\n0,04 \n0,04 \n0,2 \n0,2 \n\n0,4 \n\n0,15 \n0,15 \n0,2 \n0,04 \n0,01 \n2 \n\n0,4 \n\n0,2 \n0,04 \n0,01 \n0,15 \n0,2 \n0,04 \n0,01 \n0,2 \n0,01 \n0,15 \n\n0,4 \n\n0,4 \n\n0,01 \n0,2 \n2 \n2 \n0,01 \n\n15 dias \n21 dias \n1 dia \n1 dia \n1 dia \n1 dia \n1 dia \n60 dias \n21 dias \n1 dia \n14 dias \n1 dia \n1 dia \n1 dia \n\nUNA \n\n14 dias \n14 dias \n60 dias \n1 dia \n\nUNA \n\n3 dias \n\n(1) \n14 dias \n14 dias \n60 dias \n14 dias \n60 dias \n1 dia \n3 dias \n\n(1) \n1 dia \n14 dias \n60 dias \n14 dias \n60 dias \n14 dias \n60 dias \n21 dias \n60 dias \n14 dias \n3 dias \n\n(1) \n3 dias \n\n(1) \n60 dias \n60 dias \n1 dia \n1 dia \n60 dias \n\n\fMarmelo1 \nMaxixe1 \nMelancia \nMel\u00e3o \nMilheto1 \nMilho \nMirtilo1 \nMogno \nMorango \nMostarda1 \n\nNabo1 \n\nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\nSulco de plantio \nNectarina1 \nFoliar \nN\u00easpera1 \nFoliar \nNoz-pec\u00e31 \nFoliar \nOr\u00e9gano1 \nFoliar \nParic\u00e1 \nFoliar \nPastagem \nFoliar \nPepino \nFoliar \nPera1 \nFoliar \nP\u00eassego \nFoliar \nPimenta1 \nFoliar \nPiment\u00e3o1 \nFoliar \nPinh\u00e3o1 \nFoliar \nPinus \nFoliar \nPitanga1 \nFoliar \nPitaya1 \nFoliar \nPlantas ornamentais  Foliar \nPupunha1 \nFoliar \nQuiabo1 \nFoliar \nQuiu\u00ed1 \nFoliar \nFoliar \n\nRabanete1 \n\nRepolho \nRom\u00e31 \nR\u00facula1 \nSalsa1 \nS\u00e1lvia1 \nSeriguela1 \nSeringueira \nSoja \nSorgo1 \nTeca \nTomate \nTrigo \nTriticale1 \nUva \n\nSulco de plantio \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \nFoliar \n\n0,07 \n0,06 \n0,01 \n0,01 \n0,01 \n0,01 \n0,2 \n\n0,2 \n15 \n\n0,4 \n\n0,07 \n0,07 \n0,01 \n2 \n\n0,06 \n0,07 \n0,07 \n0,2 \n0,2 \n0,2 \n\n14 dias \n1 dia \n14 dias \n21 dias \n40 dias \n40 dias \n1 dia \n\nUNA \n\n1 dia \n1 dia \n3 dias \n\n(1) \n14 dias \n14 dias \n60 dias \n1 dia \n\nUNA \nUNA \n\n1 dia \n14 dias \n14 dias \n1 dia \n1 dia \n21 dias \n\nUNA \n\n0,2 \n0,01 \n                 UNA \n0,2 \n0,2 \n0,2 \n\n1 dia \n60 dias \n\n21 dias \n1 dia \n60 dias \n3 dias \n\n0,4 \n\n0,01 \n0,01 \n15 \n2 \n2 \n0,2 \n\n0,01 \n0,01 \n\n0,15 \n0,3 \n0,3 \n0,2 \n\n(1) \n1 dia \n60 dias \n1 dia \n1 dia \n1 dia \n1 dia \n\nUNA \n\n21 dias \n40 dias \n\nUNA \n\n1 dia \n15 dias \n15 dias \n60 dias \n\nLMR = Limite M\u00e1ximo de Res\u00edduo \n\nUNA = Uso N\u00e3o Alimentar \n\n(1)  N\u00e3o determinado devido \u00e0 modalidade de emprego \n\n \n\f1 Inclus\u00e3o de culturas solicitada pela Instru\u00e7\u00e3o Normativa Conjunta - INC n\u00ba 01/2014 \n\n2 Todas as esp\u00e9cies de feij\u00f5es Vigna spp, Cajanus spp e Phaseolos spp \n\n2.3. Defini\u00e7\u00e3o de res\u00edduo para fins de conformidade com o LMR e avalia\u00e7\u00e3o do risco diet\u00e9tico: \nisocicloseram. \n\n2.4.  Outro  uso  agr\u00edcola  n\u00e3o  relacionado  ao  uso  direto  em  culturas:  controle  de  formigas \ncortadeiras \n\n2.5.  Uso  n\u00e3o  agr\u00edcola:  manuten\u00e7\u00e3o  e  conserva\u00e7\u00e3o  de  ativos  em  faixas  de  servid\u00e3o,  faixa  de \ndom\u00ednio, direito de via, \u00e1reas de desapropria\u00e7\u00e3o, bem como aceiros de margens e acostamentos \nde  estradas  e  rodovias,  ferrovias,  pista  de  aeroporto,  p\u00e1tios,  oleodutos,  gasodutos,  terminais, \nlinhas de transmiss\u00e3o, linhas de alta tens\u00e3o e distribui\u00e7\u00e3o de energia el\u00e9trica, subesta\u00e7\u00f5es de \nenergia,  canteiros,  usinas  fotovoltaicas  e  e\u00f3licas  e  outras  \u00e1reas  n\u00e3o  agr\u00edcolas  que  tenham \npotenciais riscos gerados pela presen\u00e7a dos alvos, florestas naturais (nativas), recupera\u00e7\u00e3o de \n\u00e1reas degradadas, reflorestamento e \u00e1reas de restaura\u00e7\u00e3o, tais como: reservas legais, \u00e1reas de \npreserva\u00e7\u00e3o permanente, unidades de conserva\u00e7\u00e3o e outras \u00e1reas destinadas \u00e0 restaura\u00e7\u00e3o de \necossistemas em processo de regenera\u00e7\u00e3o natural ou de implanta\u00e7\u00e3o. \n\n3. CARACTER\u00cdSTICAS TOXICOL\u00d3GICAS \n\n3.1. Classifica\u00e7\u00e3o toxicol\u00f3gica: \n\nResultado do \nestudo \nDL50 > 5000 mg/kg \np.c. \n\nCategoria \nde Perigo \nN\u00e3o \nClassificado \n\nDL50 > 5000 mg/kg \np.c. \n\nN\u00e3o \nClassificado \n\nFrase de Perigo \n\nPalavra de \nAdvert\u00eancia \n\nPictograma \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\nClasse de \nPerigo* \nToxicidade \nAguda Oral \nToxicidade \nAguda \nCut\u00e2nea \n\nToxicidade \nAguda \nInalat\u00f3ria \n\nCL50 > 4,62 mg/L \nde ar \n\nSensibiliza\u00e7\u00e3o \nD\u00e9rmica \n\nSensibilizante \n\nToxicidade a \n\u00f3rg\u00e3o-alvos \nespec\u00edficos por \nexposi\u00e7\u00e3o \nrepetida \n\nAdrenal \n\nOs efeitos \nobservados na \ngl\u00e2ndula adrenal, \nem ratos e \ncamundongos, em \nmachos e em \nf\u00eameas, nos \nestudos \nsubcr\u00f4nicos e nos \nestudos cr\u00f4nicos, \npelas vias oral ou \nvia subcut\u00e2nea, \n\n4 \n\n1 \n\n2 \n\nNocivo se \ninalado \n\nATEN\u00c7\u00c3O \n\nPode provocar \nrea\u00e7\u00f5es \nal\u00e9rgicas na pele \n\nATEN\u00c7\u00c3O \n\nProvoca danos \u00e0 \ngl\u00e2ndula adrenal \npor exposi\u00e7\u00e3o \nrepetida ou \nprolongada \n\nATEN\u00c7\u00c3O \n\n \n \n  \n \n \n \n\festatisticamente \nsignificativos \ne  relacionados ao \ntratamento com \nisocicloseram \nforam: aumento \nda produ\u00e7\u00e3o de \nc\u00e9lulas brancas \n(linf\u00f3citos, \nmon\u00f3citos, \nneutr\u00f3filos, \nbas\u00f3filos), \nredu\u00e7\u00e3o do \ncolesterol, \naumento do peso \nabsoluto e relativo \nda adrenal, \naumento de \nhipertrofia no \nc\u00f3rtex da adrenal, \naumento de \nhipertrofia na zona \nfasciculada da \nadrenal, aumento \nde vacuoliza\u00e7\u00e3o \nda zona \nfasciculada da \nadrenal. \nF\u00edgado \n\nOs efeitos \nobservados no \nf\u00edgado, em ratos e \ncamundongos, em \nmachos e em \nf\u00eameas, nos \nestudos \nsubcr\u00f4nicos e nos \nestudos cr\u00f4nicos, \npelas vias: oral ou \nsubcut\u00e2nea, \nestatisticamente \nsignificativos e \nrelacionados ao \ntratamento com \nisocicloseram \nforam: aumento \ndo peso absoluto \ne relativo, \naumento da \nincid\u00eancia e da \nseveridade de \nvacuoliza\u00e7\u00e3o \ncentrolobular, \naumento de \nvacuoliza\u00e7\u00e3o \nmicrovesicular, \naumento de \narquitetura lobular \nproeminente e \n\nToxicidade a \n\u00f3rg\u00e3o-alvos \nespec\u00edficos por \nexposi\u00e7\u00e3o \nrepetida \n\n2 \n\nProvoca danos \nao f\u00edgado por \nexposi\u00e7\u00e3o \nrepetida ou \nprolongada \n\nATEN\u00c7\u00c3O \n\n \n\faumento de \ninfiltrado de \nc\u00e9lulas \ninflamat\u00f3rias. \nSistema \nHemolinforeticular \n\nOs efeitos \nobservados nos \n\u00f3rg\u00e3os do sistema \nhemolinforeticular \n(linfonodos, timo, \nba\u00e7o), em ratos e \ncamundongos, em \nmachos e em \nf\u00eameas, nos \nestudos \nsubcr\u00f4nicos e nos \nestudos cr\u00f4nicos, \npela via oral, \nestatisticamente \nsignificativos e \nrelacionados ao \ntratamento com \nisocicloseram \nforam: aumento \nde reticul\u00f3citos; \naumento da \nincid\u00eancia e da \nseveridade de \nplasmacitose e de \ninfiltra\u00e7\u00e3o de \nc\u00e9lulas \nplasm\u00e1ticas com \nc\u00e9lulas Russell \nba\u00e7o; aumento do \npeso absoluto e \nrelativo ba\u00e7o; \naumento de \neritropoiese ba\u00e7o; \naumento de \ncelularidade \nlinfoide ba\u00e7o e \naumento de \nhematopoiese \nextramedular \nba\u00e7o;  aumento da \nincid\u00eancia e da \nseveridade de \nplasmacitose com \nc\u00e9lulas Russell \ntimo; aumento do \npeso absoluto \ntimo e aumento de \ncelularidade \nlinfoide na zona \ncortical \ntimo;  aumento da \nincid\u00eancia e da \nseveridade de \n\nToxicidade a \n\u00f3rg\u00e3o-alvos \nespec\u00edficos por \nexposi\u00e7\u00e3o \nrepetida \n\n2 \n\nProvoca danos \nao ba\u00e7o, ao timo \ne aos linfonodos \npor exposi\u00e7\u00e3o \nrepetida ou \nprolongada \n\nATEN\u00c7\u00c3O \n\n \n\fplasmacitose nos \nlinfonodos \nmandibular e \nlombar com \nc\u00e9lulas Russell; \naumento de \neritrocitose nos \nlinfonodos \nmandibulares, \nmediastinal e \nmesent\u00e9rico e \naumento de \neritrofagocitose \nnos linfonodos \nmandibulares. \nGametog\u00eanese \n\nOs efeitos \nobservados na \nadrenal \nconcomitantement\ne com os efeitos \nobservados na \ngametog\u00eanese \n(espermatozoides \ne fol\u00edculos \nprimordiais e \nprim\u00e1rios), dos \nestudos \nsubcr\u00f4nicos ou \ncr\u00f4nicos em ratos \nou camundongos, \nforam \nrelacionadas ao \ntratamento com \nisocicloseram, \nestatisticamente \nsignificativos, fora \ndo controle \nhist\u00f3rico do \nlaborat\u00f3rio e com \ndose-resposta. Os \nefeitos \nobservados em \nmachos foram:",
+        "enName": "a"
+    },
+    "linurom": {
+        "ptBrName": "linurom",
+        "enName": "linuron",
+        "nome_qu\u00edmico": "3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea",
+        "f\u00f3rmula_bruta": "C9H10Cl2N2O2",
+        "grupo_qu\u00edmico": "Ureia",
+        "classe": "Herbicida"
+    },
+    "Lactofem": {
+        "ptBrName": "Lactofem",
+        "enName": "Lactofen",
+        "nome_qu\u00edmico": "ethyl O-[5-(2-chloro-\u03b1,\u03b1,\u03b1-trifluoro-p-tolyloxy)-2-nitrobenzoyl]-DL-lactate",
+        "f\u00f3rmula_bruta": "C19H15ClF3NO7",
+        "grupo_qu\u00edmico": "\u00c9ter difen\u00edlico",
+        "classe": "Herbicida"
+    },
+    "Lufenurom": {
+        "ptBrName": "Lufenurom",
+        "enName": "Lufenuron",
+        "nome_qu\u00edmico": "(RS)-1-[2,5-dichloro-4-(1,1,2,3,3,3-hexafluoropropoxy)phenyl]-3-(2,6-",
+        "f\u00f3rmula_bruta": "C17H8Cl2F8N2O3",
+        "grupo_qu\u00edmico": "Benzoilur\u00e9ia",
+        "classe": "Inseticida e acaricida"
+    },
+    "laminarina": {
+        "ptBrName": "laminarina",
+        "enName": "laminarin",
+        "grupo_qu\u00edmico": "Polissacar\u00eddeo",
+        "classe": "Fungicida bioqu\u00edmico"
+    },
+    "Malationa": {
+        "ptBrName": "Malationa",
+        "enName": "Malathion",
+        "nome_qu\u00edmico": "diethyl (dimethoxythiophosphorylthio)succinate",
+        "f\u00f3rmula_bruta": "C10H19O6PS2",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e acaricida"
+    },
+    "Mancozebe (Mancoze": {
+        "ptBrName": "Mancozebe (Mancoze",
+        "enName": "Mancozebe (Mancoze",
+        "nome_qu\u00edmico": "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt",
+        "f\u00f3rmula_bruta": "(C4H6N2S4Mn)x (Zn)y",
+        "grupo_qu\u00edmico": "Alquilenobis(ditiocarbamato)",
+        "classe": "Fungicida e acaricida"
+    },
+    "MCPA": {
+        "ptBrName": "MCPA",
+        "enName": "MCPA",
+        "nome_qu\u00edmico": "(4-chloro-2-methylphenoxy)acetic acid",
+        "f\u00f3rmula_bruta": "C9H9ClO3",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxialcan\u00f3ico",
+        "classe": "Herbicida"
+    },
+    "Metidationa": {
+        "ptBrName": "Metidationa",
+        "enName": "Methidathion",
+        "nome_qu\u00edmico": "S-2,3-dihydro-5-methoxy-2-oxo-1,3,4-thiadiazol-3-ylmethyl O,O-dimethyl",
+        "f\u00f3rmula_bruta": "C6H11N2O4PS3",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e acaricida"
+    },
+    "Metiram": {
+        "ptBrName": "Metiram",
+        "enName": "Metiram",
+        "nome_qu\u00edmico": "zinc ammoniate ethylenebis(dithiocarbamate)-poly(ethylenethiuram disulfide)",
+        "f\u00f3rmula_bruta": "(C16H33N11S16Zn3)x",
+        "grupo_qu\u00edmico": "Alquilenobis(ditiocarbamato)",
+        "classe": "Fungicida"
+    },
+    "Metomil": {
+        "ptBrName": "Metomil",
+        "enName": "Methomyl",
+        "nome_qu\u00edmico": "S-methyl N-(methylcarbamoyloxy)thioacetimidate",
+        "f\u00f3rmula_bruta": "C5H10N2O2S",
+        "grupo_qu\u00edmico": "Metilcarbamato de oxima",
+        "classe": "Inseticida e acaricida"
+    },
+    "Metribuzim": {
+        "ptBrName": "Metribuzim",
+        "enName": "Metribuzim",
+        "nome_qu\u00edmico": "4-amino-6-tert-butyl-4,5-dihydro-3-methylthio-1,2,4-triazin-5-one",
+        "f\u00f3rmula_bruta": "C8H14N4OS",
+        "grupo_qu\u00edmico": "Triazinona",
+        "classe": "Herbicida"
+    },
+    "MSMA": {
+        "ptBrName": "MSMA",
+        "enName": "MSMA",
+        "nome_qu\u00edmico": "sodium hydrogen methylarsonate",
+        "f\u00f3rmula_bruta": "CH4AsNaO3",
+        "grupo_qu\u00edmico": "Organoars\u00eanico",
+        "classe": "Herbicida"
+    },
+    "METOPRENO": {
+        "ptBrName": "METOPRENO",
+        "enName": "methoprene",
+        "nome_qu\u00edmico": "isopropyl (E,E)-(RS)-11-methoxy-3,7,11-trimethyldodeca-2,4-dienoate",
+        "f\u00f3rmula_bruta": "C19H34O3",
+        "grupo_qu\u00edmico": "\u00c9ster alif\u00e1tico insaturado",
+        "classe": "Inseticida"
+    },
+    "Metsulfurom met\u00edlico": {
+        "ptBrName": "Metsulfurom met\u00edlico",
+        "enName": "Metsulfuron-methyl",
+        "nome_qu\u00edmico": "methyl 2-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulfamoyl)benzoate",
+        "f\u00f3rmula_bruta": "C14H15N5O6S",
+        "grupo_qu\u00edmico": "Sulfonilureia",
+        "classe": "Herbicida"
+    },
+    "miclobutanil": {
+        "ptBrName": "miclobutanil",
+        "enName": "myclobutanil",
+        "nome_qu\u00edmico": "2-p-chlorophenyl-2-(1H-1,2,4-triazol-1-ylmethyl)hexanenitrile",
+        "f\u00f3rmula_bruta": "C15H17ClN4",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Metam": {
+        "ptBrName": "Metam",
+        "enName": "Metam",
+        "nome_qu\u00edmico": "methyldithiocarbamic acid",
+        "f\u00f3rmula_bruta": "C2H5NS2",
+        "grupo_qu\u00edmico": "Isotiocianato de metila (precursor de)",
+        "classe": "Inseticida, formicida, fungicida, nematicida e herbicida"
+    },
+    "Metalaxil-M": {
+        "ptBrName": "Metalaxil-M",
+        "enName": "Metalaxyl-M",
+        "nome_qu\u00edmico": "methyl N-methoxyacetyl-N-2,6-xylyl-D-alaninate",
+        "f\u00f3rmula_bruta": "C15H21NO4",
+        "grupo_qu\u00edmico": "Acilalaninato",
+        "classe": "Fungicida"
+    },
+    "Metoxifenozida": {
+        "ptBrName": "Metoxifenozida",
+        "enName": "Methoxyfenozide",
+        "nome_qu\u00edmico": "N-tert-butyl-N'-(3-methoxy-o-toluoyl)-3,5-xylohydrazide",
+        "f\u00f3rmula_bruta": "C22H28N2O3",
+        "grupo_qu\u00edmico": "Diacilhidrazina",
+        "classe": "Inseticida"
+    },
+    "Metamitrona": {
+        "ptBrName": "Metamitrona",
+        "enName": "Metamitron",
+        "nome_qu\u00edmico": "4-amino-4,5-dihydro-3-methyl-6-phenyl-1,2,4-triazin-5-one ou  4-amino-3-methyl-",
+        "f\u00f3rmula_bruta": "C10H10N4O",
+        "grupo_qu\u00edmico": "Triazinona",
+        "classe": "Herbicida"
+    },
+    "Metconazol": {
+        "ptBrName": "Metconazol",
+        "enName": "Metconazole",
+        "nome_qu\u00edmico": "(1RS,5RS;1RS,5SR)-5-(4-chlorobenzyl)-2,2-dimethyl-1-(1H-1,2,4-triazol-1-",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Metilciclopropeno": {
+        "ptBrName": "Metilciclopropeno",
+        "enName": "Methylcyclopropene",
+        "nome_qu\u00edmico": "1-methylcyclopropene",
+        "f\u00f3rmula_bruta": "C4H6",
+        "grupo_qu\u00edmico": "Cicloalqueno (bloqueador da s\u00edntese de etileno)",
+        "classe": "Regulador de crescimento"
+    },
+    "mepiquate": {
+        "ptBrName": "mepiquate",
+        "enName": "mepiquat",
+        "nome_qu\u00edmico": "1,1-dimethylpiperidinium",
+        "f\u00f3rmula_bruta": "C7H16N",
+        "grupo_qu\u00edmico": "Am\u00f4nio quatern\u00e1rio",
+        "classe": "Regulador do crescimento"
+    },
+    "Milbemectina": {
+        "ptBrName": "Milbemectina",
+        "enName": "Milbemectin",
+        "nome_qu\u00edmico": "mixture of: (10E,14E,16E,22Z)-(1R,4S,5\u2019S,6R,6\u2019R,8R,13R,20R,21R,24S)-21,24-",
+        "f\u00f3rmula_bruta": "A3: C31H44O7",
+        "grupo_qu\u00edmico": "Milbemicina",
+        "classe": "Inseticida e acaricida"
+    },
+    "Metarhizium anisopliae": {
+        "ptBrName": "Metarhizium anisopliae",
+        "enName": "Metarhizium anisopliae"
+    },
+    "Mesotriona": {
+        "ptBrName": "Mesotriona",
+        "enName": "Mesotrione",
+        "nome_qu\u00edmico": "2-(4-mesyl-2-nitrobenzoyl)cyclohexane-1,3-dione",
+        "f\u00f3rmula_bruta": "C14H13NO7S",
+        "grupo_qu\u00edmico": "Tricetona",
+        "classe": "Herbicida"
+    },
+    "METANOL": {
+        "ptBrName": "METANOL",
+        "enName": "methanol",
+        "nome_qu\u00edmico": "methyl alcohol"
+    },
+    "Mandipropamida": {
+        "ptBrName": "Mandipropamida",
+        "enName": "Mandipropamid",
+        "f\u00f3rmula_bruta": "C23H22ClNO4",
+        "grupo_qu\u00edmico": "\u00c9ter mandelamida",
+        "classe": "Fungicida"
+    },
+    "MESOSSULFUROM-MET\u00cdLICO": {
+        "ptBrName": "MESOSSULFUROM-MET\u00cdLICO",
+        "enName": "Mesosulfuron-methyl",
+        "nome_qu\u00edmico": "methyl 2-[(4,6-dimethoxypyrimidin-2-ylcarbamoyl)sulfamoyl]-\u03b1-"
+    },
+    "Metaflumizone": {
+        "ptBrName": "Metaflumizone",
+        "enName": "Metaflumizone",
+        "nome_qu\u00edmico": "(EZ)-2\u2019-[2-(4-cyanophenyl)-1-(\u03b1,\u03b1,\u03b1 -trifluoro-m-tolyl)ethylidene]-4-(trifluoro-",
+        "f\u00f3rmula_bruta": "C24H16F6N4O2",
+        "grupo_qu\u00edmico": "Semicarbazona",
+        "classe": "Inseticida"
+    },
+    "Metominostrobina": {
+        "ptBrName": "Metominostrobina",
+        "enName": "Metominostrobin",
+        "nome_qu\u00edmico": "(E)-2-methoxyimino-N-methyl-2-(2-phenoxyphenyl)acetamide",
+        "f\u00f3rmula_bruta": "C16H16N2O3",
+        "grupo_qu\u00edmico": "Estrobilurina",
+        "classe": "Fungicida"
+    },
+    "Monfluorotrina": {
+        "ptBrName": "Monfluorotrina",
+        "enName": "Momfluorothrin",
+        "nome_qu\u00edmico": "2,3,5,6\u2013tetrafluoro-4-(methoxumethyl)benzyl(EZ)\u2013(1RS,3RS;1SR,3SR)-3-(2-",
+        "f\u00f3rmula_bruta": "C19H19F4NO3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida, acaricida e controle de outros artr\u00f3podes"
+    },
+    "Nicossulfurom": {
+        "ptBrName": "Nicossulfurom",
+        "enName": "Nicosulfuron",
+        "nome_qu\u00edmico": "2-(4,6-dimethoxypyrimidin-2-ylcarbamoyl sulfamoyl)-N,N-dimethylnicotinamide",
+        "f\u00f3rmula_bruta": "C15H18N6O6S",
+        "grupo_qu\u00edmico": "Sulfonilureia",
+        "classe": "Herbicida"
+    },
+    "Novalurom": {
+        "ptBrName": "Novalurom",
+        "enName": "Novaluron",
+        "nome_qu\u00edmico": "(RS)-1-[3-chloro-4-(1,1,2-trifluoro-2-trifluoromethoxyethoxy)phenyl]-3-(2,6-difluoro",
+        "f\u00f3rmula_bruta": "C17H9ClF8N2O4",
+        "grupo_qu\u00edmico": "Benzoilur\u00e9ia",
+        "classe": "Inseticida"
+    },
+    "Neoseiulus californicus": {
+        "ptBrName": "Neoseiulus californicus",
+        "enName": "Neoseiulus californicus"
+    },
+    "Natamicina": {
+        "ptBrName": "Natamicina",
+        "enName": "Natamycin",
+        "nome_qu\u00edmico": "(8E,14E,16E,18E,20E)-(1R,3S,5R,7R,12R,22R,24S,25R,26S)-22-(3-amino-",
+        "f\u00f3rmula_bruta": "C33H47NO13",
+        "grupo_qu\u00edmico": "Polieno",
+        "classe": "Fungicida bioqu\u00edmico"
+    },
+    "\u00d3leo vegetal": {
+        "ptBrName": "\u00d3leo vegetal",
+        "enName": "Vegetable oil",
+        "nome_qu\u00edmico": "\u00e9steres de \u00e1cidos graxos de origem vegetal",
+        "f\u00f3rmula_bruta": "-",
+        "grupo_qu\u00edmico": "\u00c9steres de \u00e1cidos graxos",
+        "classe": "Inseticida e adjuvante"
+    },
+    "\u00d3leo mineral": {
+        "ptBrName": "\u00d3leo mineral",
+        "enName": "Mineral oil",
+        "nome_qu\u00edmico": "mistura de hidrocarbonetos paraf\u00ednicos, ciclo paraf\u00ednicos e arom\u00e1ticos saturados",
+        "f\u00f3rmula_bruta": "-",
+        "grupo_qu\u00edmico": "Hidrocarbonetos alif\u00e1ticos",
+        "classe": "Inseticida, acaricida, fungicida, adjuvante e espalhante adesivo"
+    },
+    "Oxadiazona": {
+        "ptBrName": "Oxadiazona",
+        "enName": "Oxadiazon",
+        "nome_qu\u00edmico": "5-tert-butyl-3-(2,4-dichloro-5-isopropoxyphenyl)-1,3,4-oxadiazol-2(3H)-one",
+        "f\u00f3rmula_bruta": "C15H18Cl2N2O3",
+        "grupo_qu\u00edmico": "Oxadiazolona",
+        "classe": "Herbicida"
+    },
+    "oxicarboxina": {
+        "ptBrName": "oxicarboxina",
+        "enName": "oxycarboxin",
+        "nome_qu\u00edmico": "2,3-dihydro-6-methyl-5-phenylcarbamoyl-1,4-oxathi-ine 4,4-dioxide",
+        "f\u00f3rmula_bruta": "C12H13NO4S",
+        "grupo_qu\u00edmico": "Carboxanilida",
+        "classe": "Fungicida"
+    },
+    "\u00d3xido de fembutatina": {
+        "ptBrName": "\u00d3xido de fembutatina",
+        "enName": "Fenbutatin oxide",
+        "nome_qu\u00edmico": "bis[tris(2-methyl-2-phenylpropyl)tin] oxide",
+        "f\u00f3rmula_bruta": "C60H78OSn2",
+        "grupo_qu\u00edmico": "Organoest\u00e2nico",
+        "classe": "Acaricida"
+    },
+    "oxifluorfem": {
+        "ptBrName": "oxifluorfem",
+        "enName": "oxyfluorfen",
+        "nome_qu\u00edmico": "2-chloro-\u03b1,\u03b1,\u03b1-trifluoro-p-tolyl 3-ethoxy-4-nitrophenyl ether",
+        "f\u00f3rmula_bruta": "C15H11ClF3NO4",
+        "grupo_qu\u00edmico": "\u00c9ter difen\u00edlico",
+        "classe": "Herbicida"
+    },
+    "\u00d3LEO CREOSOTO": {
+        "ptBrName": "\u00d3LEO CREOSOTO",
+        "enName": "creosote",
+        "nome_qu\u00edmico": "-",
+        "f\u00f3rmula_bruta": "-",
+        "classe": "Inseticida e fungicida"
+    },
+    "Octanoato de ioxinila": {
+        "ptBrName": "Octanoato de ioxinila",
+        "enName": "Ioxynil octanoate",
+        "nome_qu\u00edmico": "4-cyano-2,6-di-iodophenyl octanoate",
+        "f\u00f3rmula_bruta": "C15H17I2NO2",
+        "grupo_qu\u00edmico": "Benzonitrila",
+        "classe": "Herbicida"
+    },
+    "Ortossulfamurom": {
+        "ptBrName": "Ortossulfamurom",
+        "enName": "Orthosulfamuron",
+        "classe": "Herbicida"
+    },
+    "Orius insidiosus": {
+        "ptBrName": "Orius insidiosus",
+        "enName": "Orius insidiosus"
+    },
+    "Pendimetalina": {
+        "ptBrName": "Pendimetalina",
+        "enName": "Pendimethalin",
+        "nome_qu\u00edmico": "N-(1-ethylpropyl)-2,6-dinitro-3,4-xylidine",
+        "f\u00f3rmula_bruta": "C13H19N3O4",
+        "grupo_qu\u00edmico": "Dinitroanilina",
+        "classe": "Herbicida"
+    },
+    "Permetrina": {
+        "ptBrName": "Permetrina",
+        "enName": "Permethrin",
+        "nome_qu\u00edmico": "3-phenoxybenzyl (1RS,3RS;1RS,3SR)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclo",
+        "f\u00f3rmula_bruta": "C21H20Cl2O3",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida e formicida"
+    },
+    "Picloram": {
+        "ptBrName": "Picloram",
+        "enName": "Picloram",
+        "nome_qu\u00edmico": "4-amino-3,5,6-trichloropyridine-2-carboxylic acid",
+        "f\u00f3rmula_bruta": "C6H3Cl3N2O2",
+        "grupo_qu\u00edmico": "\u00c1cido piridinocarbox\u00edlico",
+        "classe": "Herbicida"
+    },
+    "pirimif\u00f3s met\u00edlico": {
+        "ptBrName": "pirimif\u00f3s met\u00edlico",
+        "enName": "pirimiphos-methyl",
+        "nome_qu\u00edmico": "O-2-diethylamino-6-methylpyrimidin-4-yl O,O-dimethyl phosphorothioate",
+        "f\u00f3rmula_bruta": "C11H20N3O3PS",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e acaricida"
+    },
+    "Profenof\u00f3s": {
+        "ptBrName": "Profenof\u00f3s",
+        "enName": "Profenofos",
+        "nome_qu\u00edmico": "O-4-bromo-2-chlorophenyl O-ethyl S-propyl phosphorothioate",
+        "f\u00f3rmula_bruta": "C11H15BrClO3PS",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e acaricida"
+    },
+    "Prometrina": {
+        "ptBrName": "Prometrina",
+        "enName": "Prometryn",
+        "nome_qu\u00edmico": "N2,N4-di-isopropyl-6-methylthio-1,3,5-triazine-2,4-diamine",
+        "f\u00f3rmula_bruta": "C10H19N5S",
+        "grupo_qu\u00edmico": "Triazina",
+        "classe": "Herbicida"
+    },
+    "Propanil": {
+        "ptBrName": "Propanil",
+        "enName": "Propanil",
+        "nome_qu\u00edmico": "3',4'-dichloropropionanilide",
+        "f\u00f3rmula_bruta": "C9H9Cl2NO",
+        "grupo_qu\u00edmico": "Anilida",
+        "classe": "Herbicida"
+    },
+    "Propargito": {
+        "ptBrName": "Propargito",
+        "enName": "Propargite",
+        "nome_qu\u00edmico": "2-(4-tert-butylphenoxy)cyclohexyl prop-2-ynyl sulfite",
+        "f\u00f3rmula_bruta": "C19H26O4S",
+        "grupo_qu\u00edmico": "Sulfito de alquila",
+        "classe": "Acaricida"
+    },
+    "PROPOXUR": {
+        "ptBrName": "PROPOXUR",
+        "enName": "propoxur",
+        "nome_qu\u00edmico": "2-isopropoxyphenyl methylcarbamate",
+        "f\u00f3rmula_bruta": "C11H15NO3",
+        "grupo_qu\u00edmico": "Metilcarbamato de fenila",
+        "classe": "Inseticida"
+    },
+    "Propiconazol": {
+        "ptBrName": "Propiconazol",
+        "enName": "Propiconazole",
+        "nome_qu\u00edmico": "(RS)-1-[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-ylmethyl]-1H-1,2,4-",
+        "f\u00f3rmula_bruta": "C15H17Cl2N3O2",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "PIRETRINAS": {
+        "ptBrName": "PIRETRINAS",
+        "enName": "pyrethrins",
+        "nome_qu\u00edmico": "-",
+        "f\u00f3rmula_bruta": "-",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "Cloridrato de propamocarbe": {
+        "ptBrName": "Cloridrato de propamocarbe",
+        "enName": "Propamocarb hydrochloride",
+        "nome_qu\u00edmico": "propyl 3-(dimethylamino)propylcarbamate hydrochloride",
+        "f\u00f3rmula_bruta": "C9H21ClN2O2",
+        "grupo_qu\u00edmico": "Carbamato",
+        "classe": "Fungicida"
+    },
+    "pirazossulfurom": {
+        "ptBrName": "pirazossulfurom",
+        "enName": "pyrazosulfuron",
+        "nome_qu\u00edmico": "5-[(4,6-dimethoxypyrimidin-2-ylcarbamoyl) sulfamoyl]-1-methylpyrazole-4-",
+        "f\u00f3rmula_bruta": "C12H14N6O7S",
+        "grupo_qu\u00edmico": "Sulfonilureia",
+        "classe": "Herbicida"
+    },
+    "PRALETRINA": {
+        "ptBrName": "PRALETRINA",
+        "enName": "prallethrin",
+        "f\u00f3rmula_bruta": "C19H24O3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida e repelente de inseto"
+    },
+    "Propaquizafope": {
+        "ptBrName": "Propaquizafope",
+        "enName": "Propaquizafop",
+        "nome_qu\u00edmico": "2-isopropylideneamino-oxyethyl (R)-2-[4-(6-chloroquinoxalin-2-",
+        "f\u00f3rmula_bruta": "C22H22ClN3O5",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxifenoxipropi\u00f4nico",
+        "classe": "Herbicida"
+    },
+    "procimidona": {
+        "ptBrName": "procimidona",
+        "enName": "procymidone",
+        "nome_qu\u00edmico": "N-(3,5-dichlorophenyl)-1,2-dimethylcyclopropane-1,2-dicarboximide",
+        "f\u00f3rmula_bruta": "C13H11Cl2NO2",
+        "grupo_qu\u00edmico": "Dicarboximida",
+        "classe": "Fungicida"
+    },
+    "Piriproxifem": {
+        "ptBrName": "Piriproxifem",
+        "enName": "Pyriproxyfen",
+        "nome_qu\u00edmico": "4-phenoxyphenyl (RS)-2-(2-pyridyloxy)propyl ether",
+        "f\u00f3rmula_bruta": "C20H19NO3",
+        "grupo_qu\u00edmico": "\u00c9ter piridiloxiprop\u00edlico",
+        "classe": "Inseticida"
+    },
+    "Piridabem": {
+        "ptBrName": "Piridabem",
+        "enName": "Pyridaben",
+        "nome_qu\u00edmico": "2-tert-butyl-5-(4-tert-butylbenzylthio)-4-chloro pyridazin-3(2H)-one",
+        "f\u00f3rmula_bruta": "C19H25ClN2OS",
+        "grupo_qu\u00edmico": "Piridazinona",
+        "classe": "Acaricida e inseticida"
+    },
+    "Pencicurom": {
+        "ptBrName": "Pencicurom",
+        "enName": "Pencycuron",
+        "nome_qu\u00edmico": "1-(4-chlorobenzyl)-1-cyclopentyl-3-phenylurea",
+        "f\u00f3rmula_bruta": "C19H21ClN2O",
+        "grupo_qu\u00edmico": "Fenilureia",
+        "classe": "Fungicida"
+    },
+    "Piritiobaque": {
+        "ptBrName": "Piritiobaque",
+        "enName": "Pyrithiobac",
+        "nome_qu\u00edmico": "2-chloro-6-(4,6-dimethoxypyrimidin-2-ylthio)benzoic acid",
+        "f\u00f3rmula_bruta": "C13H11ClN2O4 S",
+        "grupo_qu\u00edmico": "\u00c1cido pirimidinil benzoico",
+        "classe": "Herbicida"
+    },
+    "Propinebe (Propine": {
+        "ptBrName": "Propinebe (Propine",
+        "enName": "Propinebe (Propine",
+        "nome_qu\u00edmico": "polymeric zinc propylenebis(dithiocarbamate)",
+        "f\u00f3rmula_bruta": "(C5H8N2S4Zn)x",
+        "grupo_qu\u00edmico": "Alquilenobis(ditiocarbamato)",
+        "classe": "Fungicida"
+    },
+    "Pirimetanil": {
+        "ptBrName": "Pirimetanil",
+        "enName": "Pyrimethanil",
+        "nome_qu\u00edmico": "N-(4,6-dimethylpyrimidin-2-yl)aniline",
+        "f\u00f3rmula_bruta": "C12H13N3",
+        "grupo_qu\u00edmico": "Anilinopirimidina",
+        "classe": "Fungicida"
+    },
+    "Paclobutrazol": {
+        "ptBrName": "Paclobutrazol",
+        "enName": "Paclobutrazol",
+        "nome_qu\u00edmico": "(2RS,3RS)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl)pentan-3-ol",
+        "f\u00f3rmula_bruta": "C15H20ClN3O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Regulador de crescimento"
+    },
+    "Piraclostrobina": {
+        "ptBrName": "Piraclostrobina",
+        "enName": "Pyraclostrobin",
+        "nome_qu\u00edmico": "methyl N-{2-[1-(4-chlorophenyl)-1H-pyrazol-3-yloxymethyl]phenyl}(N-",
+        "f\u00f3rmula_bruta": "C19H18ClN3O4",
+        "grupo_qu\u00edmico": "Estrobilurina",
+        "classe": "Fungicida"
+    },
+    "profoxidim": {
+        "ptBrName": "profoxidim",
+        "enName": "profoxydim",
+        "nome_qu\u00edmico": "2-[1-[2-(4-chlorophenoxy)propoxy]mino)butyl]-3-hydroxy-5-(tetrahydro-2H-",
+        "f\u00f3rmula_bruta": "C24H32CINO4S",
+        "grupo_qu\u00edmico": "Oxima ciclohexanodiona",
+        "classe": "Herbicida"
+    },
+    "piraflufem": {
+        "ptBrName": "piraflufem",
+        "enName": "pyraflufen",
+        "nome_qu\u00edmico": "2-chloro-5-(4-chloro-5-difluoromethoxy-1-methylpyrazol-3-yl)-4-fluorophenoxy acetic acid",
+        "f\u00f3rmula_bruta": "C13H9Cl2F3N2O4",
+        "grupo_qu\u00edmico": "Fenilpirazol",
+        "classe": "Herbicida"
+    },
+    "Picoxistrobina": {
+        "ptBrName": "Picoxistrobina",
+        "enName": "Picoxystrobin",
+        "nome_qu\u00edmico": "methyl (E)-3-methoxy-2-{2-[6-(trifluoromethyl)-2-pyridyloxymethyl]phenyl}acrylate",
+        "f\u00f3rmula_bruta": "C18H16F3NO4",
+        "grupo_qu\u00edmico": "Estrobilurina",
+        "classe": "Fungicida"
+    },
+    "penoxsulam": {
+        "ptBrName": "penoxsulam",
+        "enName": "penoxsulam",
+        "nome_qu\u00edmico": "3-(2,2-difluoroethoxy)-N-(5,8-dimethoxy[1,2,4] triazolo[1,5-c]pyrimidin-2-yl)-\u03b1,\u03b1,\u03b1-",
+        "f\u00f3rmula_bruta": "C16H14F5N5O5S",
+        "grupo_qu\u00edmico": "Sulfonamida triazolopirimidina",
+        "classe": "Herbicida"
+    },
+    "Pimetrozina": {
+        "ptBrName": "Pimetrozina",
+        "enName": "Pymetrozine",
+        "nome_qu\u00edmico": "(E)-4,5-dihydro-6-methyl-4-(3-pyridylmethyleneamino)-1,2,4-triazin-3(2H)-one",
+        "f\u00f3rmula_bruta": "C10H11N5O",
+        "grupo_qu\u00edmico": "Piridina azometina",
+        "classe": "Inseticida"
+    },
+    "Protioconazol": {
+        "ptBrName": "Protioconazol",
+        "enName": "Protioconazole",
+        "nome_qu\u00edmico": "(RS)-2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-2,4-",
+        "f\u00f3rmula_bruta": "C14H15Cl2N3OS",
+        "grupo_qu\u00edmico": "Triazolintiona",
+        "classe": "Fungicida"
+    },
+    "Proexadiona c\u00e1lcica": {
+        "ptBrName": "Proexadiona c\u00e1lcica",
+        "enName": "Prohexadione-calcium",
+        "nome_qu\u00edmico": "calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate",
+        "f\u00f3rmula_bruta": "C10H10CaO5",
+        "grupo_qu\u00edmico": "Ciclohexadiona",
+        "classe": "Regulador de crescimento"
+    },
+    "PHYTOSEIULUS MACROPILIS": {
+        "ptBrName": "PHYTOSEIULUS MACROPILIS",
+        "enName": "PHYTOSEIULUS MACROPILIS"
+    },
+    "Paecilomyces lilacinus": {
+        "ptBrName": "Paecilomyces lilacinus",
+        "enName": "Paecilomyces lilacinus"
+    },
+    "Piroxsulam": {
+        "ptBrName": "Piroxsulam",
+        "enName": "Pyroxsulam",
+        "nome_qu\u00edmico": "N-(5,7-dimethoxy[1,2,4] triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-",
+        "f\u00f3rmula_bruta": "C14H13F3N6O5S",
+        "grupo_qu\u00edmico": "Sulfonamida triazolopirimidina",
+        "classe": "Herbicida"
+    },
+    "Pochonia chlamydosporia": {
+        "ptBrName": "Pochonia chlamydosporia",
+        "enName": "Pochonia chlamydosporia"
+    },
+    "Pasteuria nishizawae": {
+        "ptBrName": "Pasteuria nishizawae",
+        "enName": "Pasteuria nishizawae"
+    },
+    "per\u00f3xido de hidrog\u00eanio": {
+        "ptBrName": "per\u00f3xido de hidrog\u00eanio",
+        "enName": "hydrogen peroxide",
+        "nome_qu\u00edmico": "hydrogen peroxide",
+        "f\u00f3rmula_bruta": "H2O2",
+        "grupo_qu\u00edmico": "Inorg\u00e2nico",
+        "classe": "Algicida"
+    },
+    "Piroxassulfona": {
+        "ptBrName": "Piroxassulfona",
+        "enName": "Pyroxasulfone",
+        "nome_qu\u00edmico": "3-[5-(difluoromethoxy)-1-methyl-3-(trifluoromethyl)pyrazol-4-",
+        "f\u00f3rmula_bruta": "C12H14F5N3O4S",
+        "grupo_qu\u00edmico": "Pirazol isoxazolina",
+        "classe": "Herbicida"
+    },
+    "Piribencarbe (Pyribencar": {
+        "ptBrName": "Piribencarbe (Pyribencar",
+        "enName": "Piribencarbe (Pyribencar"
+    },
+    "quincloraque": {
+        "ptBrName": "quincloraque",
+        "enName": "quinclorac",
+        "nome_qu\u00edmico": "3,7-dichloroquinoline-8-carboxylic acid",
+        "f\u00f3rmula_bruta": "C10H5Cl2NO2",
+        "grupo_qu\u00edmico": "\u00c1cido quinolinocarbox\u00edlico",
+        "classe": "Herbicida"
+    },
+    "Quizalofope-P": {
+        "ptBrName": "Quizalofope-P",
+        "enName": "Quizalofop-P",
+        "nome_qu\u00edmico": "(R)-2-[4-(6-chloroquinoxalin-2-yloxy)phenoxy] propionic acid",
+        "f\u00f3rmula_bruta": "C17H13ClN2O4",
+        "grupo_qu\u00edmico": "\u00c1cido ariloxifenoxipropi\u00f4nico",
+        "classe": "Herbicida"
+    },
+    "RINCOFOROL": {
+        "ptBrName": "RINCOFOROL",
+        "enName": "rhynchophorol",
+        "nome_qu\u00edmico": "6-methyl-2(E)-hepten-4-ol",
+        "f\u00f3rmula_bruta": "C8H16O",
+        "grupo_qu\u00edmico": "\u00c1lcool alif\u00e1tico",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "setoxidim": {
+        "ptBrName": "setoxidim",
+        "enName": "sethoxydim",
+        "nome_qu\u00edmico": "(RS)-(EZ)-2-(1-ethoxyiminobutyl)-5-[2-(ethylthio)propyl]-3-hydroxycyclohex-2-",
+        "f\u00f3rmula_bruta": "C17H29NO3S",
+        "grupo_qu\u00edmico": "Oxima ciclohexanodiona",
+        "classe": "Herbicida"
+    },
+    "simazina": {
+        "ptBrName": "simazina",
+        "enName": "simazine",
+        "nome_qu\u00edmico": "6-chloro-N2,N4-diethyl-1,3,5-triazine-2,4-diamine",
+        "f\u00f3rmula_bruta": "C7H12ClN5",
+        "grupo_qu\u00edmico": "Triazina",
+        "classe": "Herbicida"
+    },
+    "SUMITRINA": {
+        "ptBrName": "SUMITRINA",
+        "enName": "sumithrin",
+        "f\u00f3rmula_bruta": "C23H26O3",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "SERRICORNIM": {
+        "ptBrName": "SERRICORNIM",
+        "enName": "serricornin",
+        "nome_qu\u00edmico": "4,6-dimethyl-7-hydroxy-nonan-3-one",
+        "f\u00f3rmula_bruta": "C11H22O2",
+        "grupo_qu\u00edmico": "Cetona alif\u00e1tica",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "Sulfluramida": {
+        "ptBrName": "Sulfluramida",
+        "enName": "Sulfluramid",
+        "nome_qu\u00edmico": "N-ethylperfluoro-octane-1-sulfonamide",
+        "f\u00f3rmula_bruta": "C10H6F17NO2S",
+        "grupo_qu\u00edmico": "Sulfonamida fluoroalif\u00e1tica",
+        "classe": "Inseticida e formicida"
+    },
+    "Sulfentrazona": {
+        "ptBrName": "Sulfentrazona",
+        "enName": "Sulfentrazone",
+        "nome_qu\u00edmico": "2',4'-dichloro-5'-(4-difluoromethyl-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-",
+        "f\u00f3rmula_bruta": "C11H10Cl2F2N4O3S",
+        "grupo_qu\u00edmico": "Triazolona",
+        "classe": "Herbicida"
+    },
+    "Sulfometurom met\u00edlico": {
+        "ptBrName": "Sulfometurom met\u00edlico",
+        "enName": "Sulfometuron-methyl",
+        "nome_qu\u00edmico": "methyl 2-(4,6-dimethylpyrimidin-2-ylcarbamoylsulfamoyl)benzoate",
+        "f\u00f3rmula_bruta": "C15H16N4O5S",
+        "grupo_qu\u00edmico": "Sulfonilur\u00e9ia",
+        "classe": "Herbicida e regulador de crescimento"
+    },
+    "S-Metolacloro": {
+        "ptBrName": "S-Metolacloro",
+        "enName": "S-Metolachlor",
+        "nome_qu\u00edmico": "mixture of 80-100% 2-chloro-6\u2032-ethyl-N-[(1S)-2-methoxy-1-methylethyl]acet-o-",
+        "f\u00f3rmula_bruta": "C15H22ClNO2",
+        "grupo_qu\u00edmico": "Cloroacetanilida",
+        "classe": "Herbicida"
+    },
+    "SORDIDIM": {
+        "ptBrName": "SORDIDIM",
+        "enName": "sordidin",
+        "nome_qu\u00edmico": "o produto \u00e9 constitu\u00eddo por 04 is\u00f4meros:",
+        "f\u00f3rmula_bruta": "C11 H20 O2",
+        "grupo_qu\u00edmico": "Cetal bic\u00edclico",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "STEINERNEMA PUERTORICENSE": {
+        "ptBrName": "STEINERNEMA PUERTORICENSE",
+        "enName": "STEINERNEMA PUERTORICENSE"
+    },
+    "Saflufenacil": {
+        "ptBrName": "Saflufenacil",
+        "enName": "Saflufenacil",
+        "nome_qu\u00edmico": "N\u2032-{2-chloro-4-fluoro-5-[1,2,3,6-tetrahydro-3-methyl-2,6-dioxo-4-",
+        "f\u00f3rmula_bruta": "C17H17ClF4N4O5S",
+        "grupo_qu\u00edmico": "Uracila",
+        "classe": "Herbicida"
+    },
+    "Sophora flavescens": {
+        "ptBrName": "Sophora flavescens",
+        "enName": "Sophora flavescens",
+        "classe": "Acaricida"
+    },
+    "STRATIOLAELAPS SCIMITUS": {
+        "ptBrName": "STRATIOLAELAPS SCIMITUS",
+        "enName": "STRATIOLAELAPS SCIMITUS"
+    },
+    "Sulfoxaflor": {
+        "ptBrName": "Sulfoxaflor",
+        "enName": "Sulfoxaflor",
+        "nome_qu\u00edmico": "[1-[6-(trifluoromethyl)pyridin-3-yl]ethyl]methyl(oxido)-\u03bb4-",
+        "f\u00f3rmula_bruta": "C10H10F3N3OS",
+        "grupo_qu\u00edmico": "Sulfoximina",
+        "classe": "Inseticida"
+    },
+    "Parede celular de Saccharomyces cerevisiae": {
+        "ptBrName": "Parede celular de Saccharomyces cerevisiae",
+        "enName": "Parede celular de Saccharomyces cerevisiae"
+    },
+    "tebutiurom": {
+        "ptBrName": "tebutiurom",
+        "enName": "tebuthiuron",
+        "nome_qu\u00edmico": "1-(5-tert-butyl-1,3,4-thiadiazol-2-yl)-1,3-dimethylurea",
+        "f\u00f3rmula_bruta": "C9H16N4OS",
+        "grupo_qu\u00edmico": "Ureia",
+        "classe": "Herbicida"
+    },
+    "TEMEF\u00d3S": {
+        "ptBrName": "TEMEF\u00d3S",
+        "enName": "temephos",
+        "f\u00f3rmula_bruta": "C16H20O6P2S3",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida, larvicida"
+    },
+    "TETRAMETRINA": {
+        "ptBrName": "TETRAMETRINA",
+        "enName": "tetramethrin",
+        "f\u00f3rmula_bruta": "C19H25NO4",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "Tiabendazol": {
+        "ptBrName": "Tiabendazol",
+        "enName": "Thiabendazole",
+        "nome_qu\u00edmico": "2-(thiazol-4-yl)benzimidazole",
+        "f\u00f3rmula_bruta": "C10H7N3S",
+        "grupo_qu\u00edmico": "Benzimidazol",
+        "classe": "Fungicida"
+    },
+    "Tidiazurom": {
+        "ptBrName": "Tidiazurom",
+        "enName": "Thidiazuron",
+        "nome_qu\u00edmico": "1-phenyl-3-(1,2,3-thiadiazol-5-yl)urea",
+        "f\u00f3rmula_bruta": "C9H8N4OS",
+        "grupo_qu\u00edmico": "Ureia",
+        "classe": "Herbicida e regulador de crescimento"
+    },
+    "Tiofanato met\u00edlico": {
+        "ptBrName": "Tiofanato met\u00edlico",
+        "enName": "Thiophanate-methyl",
+        "nome_qu\u00edmico": "dimethyl 4,4'-(o-phenylene)bis(3-thioallophanate)",
+        "f\u00f3rmula_bruta": "C12H14N4O4S2",
+        "grupo_qu\u00edmico": "Benzimidazol (precursor de)",
+        "classe": "Fungicida"
+    },
+    "triciclazol": {
+        "ptBrName": "triciclazol",
+        "enName": "tricyclazole",
+        "nome_qu\u00edmico": "5-methyl-1,2,4-triazolo[3,4-b][1,3]benzothiazole",
+        "f\u00f3rmula_bruta": "C9H7N3S",
+        "grupo_qu\u00edmico": "Benzotiazol",
+        "classe": "Fungicida"
+    },
+    "Trifluralina": {
+        "ptBrName": "Trifluralina",
+        "enName": "Trifluralin",
+        "nome_qu\u00edmico": "\u03b1,\u03b1,\u03b1-trifluoro-2,6-dinitro-N,N-dipropyl-p-toluidine",
+        "f\u00f3rmula_bruta": "C13H16F3N3O4",
+        "grupo_qu\u00edmico": "Dinitroanilina",
+        "classe": "Herbicida"
+    },
+    "Triclopir butot\u00edlico": {
+        "ptBrName": "Triclopir butot\u00edlico",
+        "enName": "Triclopyr-butotyl",
+        "nome_qu\u00edmico": "butoxyethyl 3,5,6-trichloro-2-pyridyloxyacetate",
+        "f\u00f3rmula_bruta": "C13H16Cl3NO4",
+        "grupo_qu\u00edmico": "\u00c1cido piridiniloxialcan\u00f3ico",
+        "classe": "Herbicida"
+    },
+    "tiobencarbe (thiobencar": {
+        "ptBrName": "tiobencarbe (thiobencar",
+        "enName": "tiobencarbe (thiobencar",
+        "nome_qu\u00edmico": "S-4-chlorobenzyl diethyl(thiocarbamate)",
+        "f\u00f3rmula_bruta": "C12H16ClNOS",
+        "grupo_qu\u00edmico": "Tiocarbamato",
+        "classe": "Herbicida"
+    },
+    "Tiodicarbe (Thiodicar": {
+        "ptBrName": "Tiodicarbe (Thiodicar",
+        "enName": "Tiodicarbe (Thiodicar",
+        "nome_qu\u00edmico": "3,7,9,13-tetramethyl-5,11-dioxa-2,8,14-trithia-4,7,9,12-tetra-azapentadeca-3,12-",
+        "f\u00f3rmula_bruta": "C10H18N4O4S3",
+        "grupo_qu\u00edmico": "Metilcarbamato de oxima",
+        "classe": "Inseticida"
+    },
+    "Triadimenol": {
+        "ptBrName": "Triadimenol",
+        "enName": "Triadimenol",
+        "nome_qu\u00edmico": "(1RS,2RS;1RS,2SR)-1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-",
+        "f\u00f3rmula_bruta": "C14H18ClN3O2",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Tebuconazol": {
+        "ptBrName": "Tebuconazol",
+        "enName": "Tebuconazole",
+        "nome_qu\u00edmico": "(RS)-1-p-chlorophenyl-4,4-dimethyl-3-(1H-1,2,4-triazol-1-ylmethyl)pentan-3-ol",
+        "f\u00f3rmula_bruta": "C16H22ClN3O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "teflubenzurom": {
+        "ptBrName": "teflubenzurom",
+        "enName": "teflubenzuron",
+        "nome_qu\u00edmico": "1-(3,5-dichloro-2,4-difluorophenyl)-3-(2,6-difluorobenzoyl)urea",
+        "f\u00f3rmula_bruta": "C14H6Cl2F4N2O2",
+        "grupo_qu\u00edmico": "Benzoilur\u00e9ia",
+        "classe": "Inseticida"
+    },
+    "Triflumurom": {
+        "ptBrName": "Triflumurom",
+        "enName": "Triflumuron",
+        "nome_qu\u00edmico": "1-(2-chlorobenzoyl)-3-(4-trifluoromethoxy phenyl)urea",
+        "f\u00f3rmula_bruta": "C15H10ClF3N2O3",
+        "grupo_qu\u00edmico": "Benzoilureia",
+        "classe": "Inseticida"
+    },
+    "triflumizol": {
+        "ptBrName": "triflumizol",
+        "enName": "triflumizole",
+        "nome_qu\u00edmico": "(E)-4-chloro-\u03b1, \u03b1, \u03b1-trifluoro-N-(1-imidazol-1-yl-2-propoxyethylidene)-o-toluidine",
+        "f\u00f3rmula_bruta": "C15H15ClF3N3O",
+        "grupo_qu\u00edmico": "Imidazol",
+        "classe": "Fungicida"
+    },
+    "terbuf\u00f3s": {
+        "ptBrName": "terbuf\u00f3s",
+        "enName": "terbufos",
+        "nome_qu\u00edmico": "S-tert-butylthiomethyl O,O-diethylphosphoro dithioate",
+        "f\u00f3rmula_bruta": "C9H21O2PS3",
+        "grupo_qu\u00edmico": "Organofosforado",
+        "classe": "Inseticida e nematicida"
+    },
+    "Terbutilazina": {
+        "ptBrName": "Terbutilazina",
+        "enName": "Terbuthylazine",
+        "nome_qu\u00edmico": "N2-tert-butyl-6-chloro-N4-ethyl-1,3,5-triazine-2,4-diamine",
+        "f\u00f3rmula_bruta": "C9H16ClN5",
+        "grupo_qu\u00edmico": "Triazina",
+        "classe": "Herbicida"
+    },
+    "triticonazol": {
+        "ptBrName": "triticonazol",
+        "enName": "triticonazole",
+        "nome_qu\u00edmico": "(RS)-(E)-5-(4-chlorobenzylidene)-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)",
+        "f\u00f3rmula_bruta": "C17H20ClN3O",
+        "grupo_qu\u00edmico": "Triazol",
+        "classe": "Fungicida"
+    },
+    "Tebufenozida": {
+        "ptBrName": "Tebufenozida",
+        "enName": "Tebufenozide",
+        "nome_qu\u00edmico": "N-tert-butyl-N'-(4-ethylbenzoyl)-3,5-dimethyl benzohydrazide",
+        "f\u00f3rmula_bruta": "C22H28N2O2",
+        "grupo_qu\u00edmico": "Diacilhidrazina",
+        "classe": "Inseticida"
+    },
+    "Transflutrina": {
+        "ptBrName": "Transflutrina",
+        "enName": "Transfluthrin",
+        "nome_qu\u00edmico": "2,3,5,6-tetrafluorobenzyl (1R,3S)-3-(2,2-dichloro vinyl)-2,2-dimethylcyclopropane",
+        "f\u00f3rmula_bruta": "C15H12Cl2F4O2",
+        "grupo_qu\u00edmico": "Piretroide",
+        "classe": "Inseticida"
+    },
+    "Tetraconazol": {
+        "ptBrName": "Tetraconazol",
+        "enName": "Tetraconazole",
+        "nome_qu\u00edmico": "(RS)-2-(2,4-dichlorophenyl)-3-(1H-1,2,4-triazol-1-yl)propyl 1,1,2,2-",
+        "f\u00f3rmula_bruta": "C13H11Cl2F4N3O",
+        "classe": "Fungicida"
+    },
+    "TRIBROMOFENOL": {
+        "ptBrName": "TRIBROMOFENOL",
+        "enName": "tribromophenol",
+        "nome_qu\u00edmico": "2,4,6-tribromophenol",
+        "f\u00f3rmula_bruta": "C6H3Br3O"
+    },
+    "Tiametoxam": {
+        "ptBrName": "Tiametoxam",
+        "enName": "Thiamethoxam",
+        "nome_qu\u00edmico": "3-(2-chloro-1,3-thiazol-5-ylmethyl)-5-methyl-1,3,5-oxadiazinan-4-",
+        "f\u00f3rmula_bruta": "C8H10ClN5O3S",
+        "grupo_qu\u00edmico": "Neonicotinoide",
+        "classe": "Inseticida"
+    },
+    "Tiacloprido": {
+        "ptBrName": "Tiacloprido",
+        "enName": "Thiacloprid",
+        "nome_qu\u00edmico": "(Z)-3-(6-chloro-3-pyridylmethyl)-1,3-thiazolidin-2-ylidenecyanamide",
+        "f\u00f3rmula_bruta": "C10H9ClN4S",
+        "grupo_qu\u00edmico": "Neonicotinoide",
+        "classe": "Inseticida"
+    },
+    "tepraloxidim": {
+        "ptBrName": "tepraloxidim",
+        "enName": "tepraloxydim",
+        "nome_qu\u00edmico": "(EZ)-(RS)-2-{1-[(2E)-3-chloroallyloxyimino] propyl}-3-hydroxy-5-perhydropyran-4-",
+        "f\u00f3rmula_bruta": "C17H24ClNO4",
+        "grupo_qu\u00edmico": "Oxima ciclohexanodiona",
+        "classe": "Herbicida"
+    },
+    "TRIMEDLURE": {
+        "ptBrName": "TRIMEDLURE",
+        "enName": "trimedlure",
+        "nome_qu\u00edmico": "mixture of t-butyl 2-methyl-4-chlorocyclohexanecarboxylate and t-butyl 2-methyl-",
+        "f\u00f3rmula_bruta": "C12H21ClO2",
+        "grupo_qu\u00edmico": "\u00c9steres saturados",
+        "classe": "Ferom\u00f4nio sint\u00e9tico"
+    },
+    "tifluzamida": {
+        "ptBrName": "tifluzamida",
+        "enName": "thifluzamide",
+        "nome_qu\u00edmico": "2',6'-dibromo-2-methyl-4'-trifluoromethoxy-4-trifluoromethyl-1,3-thiazole-5-carboxanilide",
+        "f\u00f3rmula_bruta": "C13H6Br2F6N2O2S",
+        "grupo_qu\u00edmico": "Carboxanilida",
+        "classe": "Fungicida"
+    },
+    "Trifloxistrobina": {
+        "ptBrName": "Trifloxistrobina",
+        "enName": "Trifloxystrobin",
+        "nome_qu\u00edmico": "methyl(E)-methoxyimino-{(E)-\u03b1-[1-(\u03b1,\u03b1,\u03b1-trifluoro-m-tolyl)ethylideneaminooxy]-",
+        "f\u00f3rmula_bruta": "C20H19F3N2O4",
+        "grupo_qu\u00edmico": "Estrobilurina",
+        "classe": "Fungicida"
+    },
+    "Trifloxisulfurom": {
+        "ptBrName": "Trifloxisulfurom",
+        "enName": "Trifloxysulfuron",
+        "nome_qu\u00edmico": "1-(4,6-dimethoxypyrimidin-2-yl)-3-[3-(2,2,2-trifluoroethoxy)-2-pyridylsulfonyl]urea",
+        "f\u00f3rmula_bruta": "C14H14F3N5O6S",
+        "grupo_qu\u00edmico": "Sulfonilureia",
+        "classe": "Herbicida"
+    },
+    "Trinexapaque et\u00edlico": {
+        "ptBrName": "Trinexapaque et\u00edlico",
+        "enName": "Trinexapac-ethyl",
+        "nome_qu\u00edmico": "ethyl 4-cyclopropyl(hydroxy)methylene-3,5-dioxocyclohexanecarboxylate",
+        "f\u00f3rmula_bruta": "C13H16O5",
+        "grupo_qu\u00edmico": "\u00c1cido dioxociclohexanocarbox\u00edlico",
+        "classe": "Regulador de crescimento"
+    },
+    "D-TETRAMETRINA": {
+        "ptBrName": "D-TETRAMETRINA",
+        "enName": "d-tetramethrin",
+        "nome_qu\u00edmico": "cyclohex-1-ene-1,2-dicarboximidomethyl(1RS, 3RS;1RS,3SR)-2,2-dimethyl-3-(2-",
+        "f\u00f3rmula_bruta": "C19H25NO4",
+        "grupo_qu\u00edmico": "Piretr\u00f3ide",
+        "classe": "Inseticida"
+    },
+    "TANINOS": {
+        "ptBrName": "TANINOS",
+        "enName": "tannins",
+        "nome_qu\u00edmico": "-",
+        "f\u00f3rmula_bruta": "-",
+        "grupo_qu\u00edmico": "flavon\u00f3ides polim\u00e9ricos",
+        "classe": "Fungicida"
+    },
+    "Trichoderma harzianum": {
+        "ptBrName": "Trichoderma harzianum",
+        "enName": "Trichoderma harzianum"
+    },
+    "Tembotriona": {
+        "ptBrName": "Tembotriona",
+        "enName": "Tembotrione",
+        "nome_qu\u00edmico": "2-{2-chloro-4-mesyl-3-[(2,2,2-trifluoroethoxy)methyl]benzoyl}cyclohexane-1,3-",
+        "f\u00f3rmula_bruta": "C17H16ClF3O6S",
+        "grupo_qu\u00edmico": "Tricetona",
+        "classe": "herbicida"
+    },
+    "TRICHOGRAMMA GALLOI": {
+        "ptBrName": "TRICHOGRAMMA GALLOI",
+        "enName": "TRICHOGRAMMA GALLOI"
+    },
+    "TEPHROSIA CANDIDA": {
+        "ptBrName": "TEPHROSIA CANDIDA",
+        "enName": "TEPHROSIA CANDIDA"
+    },
+    "TRICHODERMA ASPERELLUM": {
+        "ptBrName": "TRICHODERMA ASPERELLUM",
+        "enName": "TRICHODERMA ASPERELLUM"
+    },
+    "TRICHODERMA STROMATICUM": {
+        "ptBrName": "TRICHODERMA STROMATICUM",
+        "enName": "TRICHODERMA STROMATICUM"
+    },
+    "TRICHOGRAMMA PRETIOSUM": {
+        "ptBrName": "TRICHOGRAMMA PRETIOSUM",
+        "enName": "TRICHOGRAMMA PRETIOSUM"
+    },
+    "Trichoderma koningiopsis": {
+        "ptBrName": "Trichoderma koningiopsis",
+        "enName": "Trichoderma koningiopsis"
+    },
+    "Trissolcus basalis": {
+        "ptBrName": "Trissolcus basalis",
+        "enName": "Trissolcus basalis"
+    },
+    "Zoxamida": {
+        "ptBrName": "Zoxamida",
+        "enName": "Zoxamide",
+        "nome_qu\u00edmico": "(R,S)-3,5-dichloro-N-(3-chloro-1-ethyl-1-methyl-2-oxopropyl)-p-toluamide",
+        "f\u00f3rmula_bruta": "C14H16Cl3ON2",
+        "grupo_qu\u00edmico": "Benzamida",
+        "classe": "Fungicida"
+    }
+}
