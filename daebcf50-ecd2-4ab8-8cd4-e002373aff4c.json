@@ -1,0 +1,548 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "API - Pesticides",
+        "description": "The EU Pesticides Database allows users to search for information on active substances used in plant protection products, Maximum Residue Levels (MRLs) in food products, and emergency authorizations of plant protection products in Member States",
+        "version": "v2.0"
+    },
+    "servers": [
+        {
+            "url": "https://api.datalake.sante.service.ec.europa.eu/sante/pesticides"
+        }
+    ],
+    "paths": {
+        "/user_guide/download": {
+            "get": {
+                "summary": "User Guide Download",
+                "description": "User Guide Download",
+                "operationId": "c726a295-5913-4ec1-84b9-3d72b2ec9174",
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/octet-stream": {
+                                "schema": {
+                                    "type": "string",
+                                    "format": "binary"
+                                },
+                                "examples": {
+                                    "default": {
+                                        "value": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found"
+                    },
+                    "500": {
+                        "description": "Internal Server Error"
+                    }
+                }
+            }
+        },
+        "/active_substances": {
+            "get": {
+                "tags": [
+                    "hidden-configportal",
+                    "hidden-public"
+                ],
+                "summary": "active_substances",
+                "operationId": "c4804d5d-3267-4d73-b677-c3a2b510e5bc",
+                "parameters": [
+                    {
+                        "name": "format",
+                        "in": "query",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "substance_id",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "number"
+                        }
+                    },
+                    {
+                        "name": "substance_name",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "as_cas_number",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "substance_status",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "approval_date",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "expiry_date",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "substance_category",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "Content-Type",
+                        "in": "header",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "application/json"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    },
+                    "500": {
+                        "description": "Generate a fitting description for the response",
+                        "content": {
+                            "application/json": {
+                                "examples": {
+                                    "500": {
+                                        "summary": "Generate a fitting summary for the response",
+                                        "description": "Generate a fitting description for the response",
+                                        "value": {
+                                            "Error": "An internal server error has occured."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/pesticide_residues": {
+            "get": {
+                "tags": [
+                    "hidden-configportal",
+                    "hidden-public"
+                ],
+                "summary": "pesticide_residues",
+                "operationId": "087c6b57-d832-42a9-a9e9-f830d65335d0",
+                "parameters": [
+                    {
+                        "name": "format",
+                        "in": "query",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "pesticide_residue_id",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "number"
+                        }
+                    },
+                    {
+                        "name": "pesticide_residue_lg",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "pesticide_residue_name",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "pesticide_residue_footnote_code",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "Content-Type",
+                        "in": "header",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "application/json"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    },
+                    "500": {
+                        "description": "Generate a fitting description for the response",
+                        "content": {
+                            "application/json": {
+                                "examples": {
+                                    "500": {
+                                        "summary": "Generate a fitting summary for the response",
+                                        "description": "Generate a fitting description for the response",
+                                        "value": {
+                                            "Error": "An internal server error has occured."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/pesticide_residues_products": {
+            "get": {
+                "tags": [
+                    "hidden-configportal",
+                    "hidden-public"
+                ],
+                "summary": "pesticide_residues_products",
+                "operationId": "db7a7c19-e364-4a3e-9318-6013ba5c6b6f",
+                "parameters": [
+                    {
+                        "name": "format",
+                        "in": "query",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "language",
+                        "in": "query",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "product_id",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "number"
+                        }
+                    },
+                    {
+                        "name": "product_parent_id",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "number"
+                        }
+                    },
+                    {
+                        "name": "product_code",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "product_type_id",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "number"
+                        }
+                    },
+                    {
+                        "name": "Content-Type",
+                        "in": "header",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "application/json"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    },
+                    "500": {
+                        "description": "Generate a fitting description for the response",
+                        "content": {
+                            "application/json": {
+                                "examples": {
+                                    "500": {
+                                        "summary": "Generate a fitting summary for the response",
+                                        "description": "Generate a fitting description for the response",
+                                        "value": {
+                                            "Error": "An internal server error has occured."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/pesticide_residues_mrls": {
+            "get": {
+                "tags": [
+                    "hidden-configportal",
+                    "hidden-public"
+                ],
+                "summary": "pesticide_residues_mrls",
+                "operationId": "fdca71b2-1748-418c-8ec7-8461db51ea0d",
+                "parameters": [
+                    {
+                        "name": "format",
+                        "in": "query",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "pesticide_residue_id",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "number"
+                        }
+                    },
+                    {
+                        "name": "product_id",
+                        "in": "query",
+                        "description": "",
+                        "schema": {
+                            "type": "number"
+                        }
+                    },
+                    {
+                        "name": "Content-Type",
+                        "in": "header",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "application/json"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    },
+                    "500": {
+                        "description": "Generate a fitting description for the response",
+                        "content": {
+                            "application/json": {
+                                "examples": {
+                                    "500": {
+                                        "summary": "Generate a fitting summary for the response",
+                                        "description": "Generate a fitting description for the response",
+                                        "value": {
+                                            "Error": "An internal server error has occured."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/active_substances/download": {
+            "get": {
+                "tags": [
+                    "hidden-configportal",
+                    "hidden-public"
+                ],
+                "summary": "active_substances/download",
+                "operationId": "681055ea-c08b-465f-8190-eb00a69f5203",
+                "parameters": [
+                    {
+                        "name": "format",
+                        "in": "query",
+                        "description": "Format of the output (json or csv)",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "Content-Type",
+                        "in": "header",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "application/json"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    },
+                    "500": {
+                        "description": "Generate a fitting description for the response",
+                        "content": {
+                            "application/json": {
+                                "examples": {
+                                    "500": {
+                                        "summary": "Generate a fitting summary for the response",
+                                        "description": "Generate a fitting description for the response",
+                                        "value": {
+                                            "Error": "An internal server error has occured."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/pesticide_residues_mrls/download": {
+            "get": {
+                "tags": [
+                    "hidden-configportal",
+                    "hidden-public"
+                ],
+                "summary": "pesticide_residues_mrls/download",
+                "operationId": "91a4397e-f822-402c-93c7-8f06e50e9cd3",
+                "parameters": [
+                    {
+                        "name": "format",
+                        "in": "query",
+                        "description": "Format of the output (json or csv)",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "language",
+                        "in": "query",
+                        "description": "Language of the output (BG, CS, DA, DE, EL, EN, ES, ET, FI, FR, HR, HU, IT, LG, LT, LV, MT, NL, PL, PT, RO, SK, SL, SV)",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "Content-Type",
+                        "in": "header",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "application/json"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    },
+                    "500": {
+                        "description": "Generate a fitting description for the response",
+                        "content": {
+                            "application/json": {
+                                "examples": {
+                                    "500": {
+                                        "summary": "Generate a fitting summary for the response",
+                                        "description": "Generate a fitting description for the response",
+                                        "value": {
+                                            "Error": "An internal server error has occured."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "Error": {
+                "type": "object",
+                "properties": {
+                    "code": {
+                        "type": "string"
+                    },
+                    "message": {
+                        "type": "string"
+                    }
+                },
+                "additionalProperties": false
+            }
+        },
+        "securitySchemes": {
+            "apiKeyHeader": {
+                "type": "apiKey",
+                "name": "Ocp-Apim-Subscription-Key",
+                "in": "header"
+            },
+            "apiKeyQuery": {
+                "type": "apiKey",
+                "name": "subscription-key",
+                "in": "query"
+            }
+        }
+    },
+    "security": [
+        {
+            "apiKeyHeader": []
+        },
+        {
+            "apiKeyQuery": []
+        }
+    ]
+}
